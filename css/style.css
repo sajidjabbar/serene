@@ -198,7 +198,13 @@ figure {
 	margin: 0;
 	list-style: none;
 	height: 400px;
-	overflow: hidden;
+	overflow-y: scroll;
+}
+.banner_sec .category-box ul.categories::-webkit-scrollbar {
+	width: 0.2em;
+}
+.banner_sec .category-box ul.categories::-webkit-scrollbar-thumb {
+	background-color: #c91120;
 }
 .banner_sec .category-box ul.categories li {
 	border-top: 1px solid #34404729;
