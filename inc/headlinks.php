@@ -6,7 +6,7 @@
 <!-- Site Title -->
 
 <!-- Favicon -->
-<link rel="icon" type="image/x-icon" href="img/favicon.png">
+<link rel="icon" type="image/x-icon" href="img/favicon.webp">
 <!-- Favicon -->
 
 <!-- Bootstrap CSS -->

@@ -31,7 +31,7 @@
                 <div class="banner_slider">
                     <div class="slides">
                         <div class="slide-img">
-                            <figure><img src="img/slide1.png" alt="" class="img-fluid"></figure>
+                            <figure><img src="img/slide1.webp" alt="" class="img-fluid"></figure>
                         </div>
                         <div class="slide-text">
                             <div class="inner-text">
@@ -46,7 +46,7 @@
                     </div>
                     <div class="slides">
                         <div class="slide-img">
-                            <figure><img src="img/slide2.png" alt="" class="img-fluid"></figure>
+                            <figure><img src="img/slide2.webp" alt="" class="img-fluid"></figure>
                         </div>
                         <div class="slide-text">
                             <div class="inner-text">
@@ -61,7 +61,7 @@
                     </div>
                     <div class="slides">
                         <div class="slide-img">
-                            <figure><img src="img/slide3.png" alt="" class="img-fluid"></figure>
+                            <figure><img src="img/slide3.webp" alt="" class="img-fluid"></figure>
                         </div>
                         <div class="slide-text">
                             <div class="inner-text">
@@ -87,14 +87,14 @@
 <!-- Categories Sec Start Here -->
 <section class="category-sec pad-10">
     <div class="before">
-        <figure><img src="img/cat-before.png" alt="" class="img-fluid"></figure>
+        <figure><img src="img/cat-before.webp" alt="" class="img-fluid"></figure>
     </div>
     <div class="container-fluid">
         <div class="row">
             <div class="col-lg-3 col-md-6">
                 <div class="cat-box dark-box">
                     <div class="cat-img">
-                        <figure><img src="img/cate1.png" alt="" class="img-fluid"></figure>
+                        <figure><img src="img/cate1.webp" alt="" class="img-fluid"></figure>
                     </div>
                     <div class="cat-text">
                         <h3>Jewellery</h3>
@@ -105,7 +105,7 @@
             <div class="col-lg-3 col-md-6">
                 <div class="cat-box dark-box">
                     <div class="cat-img">
-                        <figure><img src="img/cate2.png" alt="" class="img-fluid"></figure>
+                        <figure><img src="img/cate2.webp" alt="" class="img-fluid"></figure>
                     </div>
                     <div class="cat-text">
                         <h3>Natural<br /> Beads</h3>
@@ -116,7 +116,7 @@
             <div class="col-lg-3 col-md-6">
                 <div class="cat-box lght-box">
                     <div class="cat-img">
-                        <figure><img src="img/cate3.png" alt="" class="img-fluid"></figure>
+                        <figure><img src="img/cate3.webp" alt="" class="img-fluid"></figure>
                     </div>
                     <div class="cat-text">
                         <h3>Natural<br /> Stones</h3>
@@ -127,7 +127,7 @@
             <div class="col-lg-3 col-md-6">
                 <div class="cat-box lght-box">
                     <div class="cat-img">
-                        <figure><img src="img/cate4.png" alt="" class="img-fluid"></figure>
+                        <figure><img src="img/cate4.webp" alt="" class="img-fluid"></figure>
                     </div>
                     <div class="cat-text">
                         <h3>Rough and <br /> Slabs"</h3>
@@ -138,7 +138,7 @@
         </div>
     </div>
     <div class="after">
-        <figure><img src="img/cat-after.png" alt="" class="img-fluid"></figure>
+        <figure><img src="img/cat-after.webp" alt="" class="img-fluid"></figure>
     </div>
 </section>
 <!-- Categories Sec End Here -->
@@ -154,7 +154,7 @@
                 <div class="product-box">
                     <a href="#">
                         <div class="pro-mg">
-                            <figure><img src="img/pro1.png" alt="" class="img-fluid"></figure>
+                            <figure><img src="img/pro1.webp" alt="" class="img-fluid"></figure>
                         </div>
                         <div class="pro-text">
                             <h4 class="price">£ 45.00 <strike>£ 57.00.</strike></h4>
@@ -167,7 +167,7 @@
                 <div class="product-box">
                     <a href="#">
                         <div class="pro-mg">
-                            <figure><img src="img/pro2.png" alt="" class="img-fluid"></figure>
+                            <figure><img src="img/pro2.webp" alt="" class="img-fluid"></figure>
                         </div>
                         <div class="pro-text">
                             <h4 class="price">£ 45.00 <strike>£ 57.00.</strike></h4>
@@ -180,7 +180,7 @@
                 <div class="product-box">
                     <a href="#">
                         <div class="pro-mg">
-                            <figure><img src="img/pro3.png" alt="" class="img-fluid"></figure>
+                            <figure><img src="img/pro3.webp" alt="" class="img-fluid"></figure>
                         </div>
                         <div class="pro-text">
                             <h4 class="price">£ 45.00 <strike>£ 57.00.</strike></h4>
@@ -193,7 +193,7 @@
                 <div class="product-box">
                     <a href="#">
                         <div class="pro-mg">
-                            <figure><img src="img/pro4.png" alt="" class="img-fluid"></figure>
+                            <figure><img src="img/pro4.webp" alt="" class="img-fluid"></figure>
                         </div>
                         <div class="pro-text">
                             <h4 class="price">£ 45.00 <strike>£ 57.00.</strike></h4>
@@ -206,7 +206,7 @@
                 <div class="product-box">
                     <a href="#">
                         <div class="pro-mg">
-                            <figure><img src="img/pro5.png" alt="" class="img-fluid"></figure>
+                            <figure><img src="img/pro5.webp" alt="" class="img-fluid"></figure>
                         </div>
                         <div class="pro-text">
                             <h4 class="price">£ 45.00 <strike>£ 57.00.</strike></h4>
@@ -219,7 +219,7 @@
                 <div class="product-box">
                     <a href="#">
                         <div class="pro-mg">
-                            <figure><img src="img/pro6.png" alt="" class="img-fluid"></figure>
+                            <figure><img src="img/pro6.webp" alt="" class="img-fluid"></figure>
                         </div>
                         <div class="pro-text">
                             <h4 class="price">£ 45.00 <strike>£ 57.00.</strike></h4>
@@ -232,7 +232,7 @@
                 <div class="product-box">
                     <a href="#">
                         <div class="pro-mg">
-                            <figure><img src="img/pro7.png" alt="" class="img-fluid"></figure>
+                            <figure><img src="img/pro7.webp" alt="" class="img-fluid"></figure>
                         </div>
                         <div class="pro-text">
                             <h4 class="price">£ 45.00 <strike>£ 57.00.</strike></h4>
@@ -245,7 +245,7 @@
                 <div class="product-box">
                     <a href="#">
                         <div class="pro-mg">
-                            <figure><img src="img/pro8.png" alt="" class="img-fluid"></figure>
+                            <figure><img src="img/pro8.webp" alt="" class="img-fluid"></figure>
                         </div>
                         <div class="pro-text">
                             <h4 class="price">£ 45.00 <strike>£ 57.00.</strike></h4>
@@ -288,7 +288,7 @@
                 </div>
                 <div class="col-lg-4">
                     <div class="lady-img">
-                        <fieldset><img src="img/lady.png" alt="123" class="img-fluid"></fieldset>
+                        <fieldset><img src="img/lady.webp" alt="123" class="img-fluid"></fieldset>
                     </div>
                 </div>
             </div>
@@ -326,7 +326,7 @@
                 <div class="right-side">
                     <div class="locket">
                         <div class="img-box">
-                            <figure><img src="img/artist3.png" alt="" class="img-fluid"></figure>
+                            <figure><img src="img/artist3.webp" alt="" class="img-fluid"></figure>
                         </div>
                         <div class="txt">
                             <h4>Serene Sloth Jewelry &
@@ -339,10 +339,10 @@
                     </div>
                     <div class="picture-box">
                         <div class="img-box img1">
-                            <figure><img src="img/artist1.png" alt="" class="img-fluid"></figure>
+                            <figure><img src="img/artist1.webp" alt="" class="img-fluid"></figure>
                         </div>
                         <div class="img-box img2">
-                            <figure><img src="img/artist2.png" alt="" class="img-fluid"></figure>
+                            <figure><img src="img/artist2.webp" alt="" class="img-fluid"></figure>
                         </div>
                     </div>
                 </div>
@@ -365,7 +365,7 @@
             <div class="ring-box">
                 <a href="#">
                     <div class="ring-img">
-                        <figure><img src="img/ring1.png" alt="" class="img-fluid"></figure>
+                        <figure><img src="img/ring1.webp" alt="" class="img-fluid"></figure>
                     </div>
                     <div class="txt">
                         <h4 class="price">£ 45.00 <strike>£ 57.00.</strike></h4>
@@ -376,7 +376,7 @@
             <div class="ring-box">
                 <a href="#">
                     <div class="ring-img">
-                        <figure><img src="img/ring2.png" alt="" class="img-fluid"></figure>
+                        <figure><img src="img/ring2.webp" alt="" class="img-fluid"></figure>
                     </div>
                     <div class="txt">
                         <h4 class="price">£ 45.00 <strike>£ 57.00.</strike></h4>
@@ -387,7 +387,7 @@
             <div class="ring-box">
                 <a href="#">
                     <div class="ring-img">
-                        <figure><img src="img/ring3.png" alt="" class="img-fluid"></figure>
+                        <figure><img src="img/ring3.webp" alt="" class="img-fluid"></figure>
                     </div>
                     <div class="txt">
                         <h4 class="price">£ 45.00 <strike>£ 57.00.</strike></h4>
@@ -398,7 +398,7 @@
             <div class="ring-box">
                 <a href="#">
                     <div class="ring-img">
-                        <figure><img src="img/ring4.png" alt="" class="img-fluid"></figure>
+                        <figure><img src="img/ring4.webp" alt="" class="img-fluid"></figure>
                     </div>
                     <div class="txt">
                         <h4 class="price">£ 45.00 <strike>£ 57.00.</strike></h4>
@@ -409,7 +409,7 @@
             <div class="ring-box">
                 <a href="#">
                     <div class="ring-img">
-                        <figure><img src="img/ring5.png" alt="" class="img-fluid"></figure>
+                        <figure><img src="img/ring5.webp" alt="" class="img-fluid"></figure>
                     </div>
                     <div class="txt">
                         <h4 class="price">£ 45.00 <strike>£ 57.00.</strike></h4>
@@ -420,7 +420,7 @@
             <div class="ring-box">
                 <a href="#">
                     <div class="ring-img">
-                        <figure><img src="img/ring1.png" alt="" class="img-fluid"></figure>
+                        <figure><img src="img/ring1.webp" alt="" class="img-fluid"></figure>
                     </div>
                     <div class="txt">
                         <h4 class="price">£ 45.00 <strike>£ 57.00.</strike></h4>
@@ -431,7 +431,7 @@
             <div class="ring-box">
                 <a href="#">
                     <div class="ring-img">
-                        <figure><img src="img/ring2.png" alt="" class="img-fluid"></figure>
+                        <figure><img src="img/ring2.webp" alt="" class="img-fluid"></figure>
                     </div>
                     <div class="txt">
                         <h4 class="price">£ 45.00 <strike>£ 57.00.</strike></h4>
@@ -442,7 +442,7 @@
             <div class="ring-box">
                 <a href="#">
                     <div class="ring-img">
-                        <figure><img src="img/ring3.png" alt="" class="img-fluid"></figure>
+                        <figure><img src="img/ring3.webp" alt="" class="img-fluid"></figure>
                     </div>
                     <div class="txt">
                         <h4 class="price">£ 45.00 <strike>£ 57.00.</strike></h4>
@@ -453,7 +453,7 @@
             <div class="ring-box">
                 <a href="#">
                     <div class="ring-img">
-                        <figure><img src="img/ring4.png" alt="" class="img-fluid"></figure>
+                        <figure><img src="img/ring4.webp" alt="" class="img-fluid"></figure>
                     </div>
                     <div class="txt">
                         <h4 class="price">£ 45.00 <strike>£ 57.00.</strike></h4>
@@ -464,7 +464,7 @@
             <div class="ring-box">
                 <a href="#">
                     <div class="ring-img">
-                        <figure><img src="img/ring5.png" alt="" class="img-fluid"></figure>
+                        <figure><img src="img/ring5.webp" alt="" class="img-fluid"></figure>
                     </div>
                     <div class="txt">
                         <h4 class="price">£ 45.00 <strike>£ 57.00.</strike></h4>
@@ -480,13 +480,13 @@
 <!-- Wide Range Sec Start Here -->
 <section class="wide_sec pad-10">
     <div class="before">
-        <figure><img src="img/lock.png" alt="" class="img-fluid"></figure>
+        <figure><img src="img/lock.webp" alt="" class="img-fluid"></figure>
     </div>
     <div class="container-fluid p-0">
         <div class="row">
             <div class="col-lg-3 p-0">
                 <div class="img-box">
-                    <figure><img src="img/wide-range.png" alt="" class="img-fluid"></figure>
+                    <figure><img src="img/wide-range.webp" alt="" class="img-fluid"></figure>
                 </div>
             </div>
             <div class="col-lg-9 p-0">
@@ -499,7 +499,7 @@
                             <div class="product-box">
                                 <a href="#">
                                     <div class="pro-mg">
-                                        <figure><img src="img/product1.png" alt="" class="img-fluid"></figure>
+                                        <figure><img src="img/product1.webp" alt="" class="img-fluid"></figure>
                                     </div>
                                     <div class="pro-text">
                                         <h4 class="price">£ 45.00 <strike>£ 57.00.</strike></h4>
@@ -512,7 +512,7 @@
                             <div class="product-box">
                                 <a href="#">
                                     <div class="pro-mg">
-                                        <figure><img src="img/product2.png" alt="" class="img-fluid"></figure>
+                                        <figure><img src="img/product2.webp" alt="" class="img-fluid"></figure>
                                     </div>
                                     <div class="pro-text">
                                         <h4 class="price">£ 45.00 <strike>£ 57.00.</strike></h4>
@@ -525,7 +525,7 @@
                             <div class="product-box">
                                 <a href="#">
                                     <div class="pro-mg">
-                                        <figure><img src="img/product3.png" alt="" class="img-fluid"></figure>
+                                        <figure><img src="img/product3.webp" alt="" class="img-fluid"></figure>
                                     </div>
                                     <div class="pro-text">
                                         <h4 class="price">£ 45.00 <strike>£ 57.00.</strike></h4>
@@ -538,7 +538,7 @@
                             <div class="product-box">
                                 <a href="#">
                                     <div class="pro-mg">
-                                        <figure><img src="img/product4.png" alt="" class="img-fluid"></figure>
+                                        <figure><img src="img/product4.webp" alt="" class="img-fluid"></figure>
                                     </div>
                                     <div class="pro-text">
                                         <h4 class="price">£ 45.00 <strike>£ 57.00.</strike></h4>
@@ -553,7 +553,7 @@
         </div>
     </div>
     <div class="after">
-        <figure><img src="img/ball.png" alt="" class="img-fluid"></figure>
+        <figure><img src="img/ball.webp" alt="" class="img-fluid"></figure>
     </div>
 </section>
 <!-- Wide Range Sec End Here -->
@@ -571,7 +571,7 @@
             <div class="ring-box">
                 <a href="#">
                     <div class="ring-img">
-                        <figure><img src="img/ring1.png" alt="" class="img-fluid"></figure>
+                        <figure><img src="img/ring1.webp" alt="" class="img-fluid"></figure>
                     </div>
                     <div class="txt">
                         <h4 class="price">£ 45.00 <strike>£ 57.00.</strike></h4>
@@ -582,7 +582,7 @@
             <div class="ring-box">
                 <a href="#">
                     <div class="ring-img">
-                        <figure><img src="img/ring2.png" alt="" class="img-fluid"></figure>
+                        <figure><img src="img/ring2.webp" alt="" class="img-fluid"></figure>
                     </div>
                     <div class="txt">
                         <h4 class="price">£ 45.00 <strike>£ 57.00.</strike></h4>
@@ -593,7 +593,7 @@
             <div class="ring-box">
                 <a href="#">
                     <div class="ring-img">
-                        <figure><img src="img/ring3.png" alt="" class="img-fluid"></figure>
+                        <figure><img src="img/ring3.webp" alt="" class="img-fluid"></figure>
                     </div>
                     <div class="txt">
                         <h4 class="price">£ 45.00 <strike>£ 57.00.</strike></h4>
@@ -604,7 +604,7 @@
             <div class="ring-box">
                 <a href="#">
                     <div class="ring-img">
-                        <figure><img src="img/ring4.png" alt="" class="img-fluid"></figure>
+                        <figure><img src="img/ring4.webp" alt="" class="img-fluid"></figure>
                     </div>
                     <div class="txt">
                         <h4 class="price">£ 45.00 <strike>£ 57.00.</strike></h4>
@@ -615,7 +615,7 @@
             <div class="ring-box">
                 <a href="#">
                     <div class="ring-img">
-                        <figure><img src="img/ring5.png" alt="" class="img-fluid"></figure>
+                        <figure><img src="img/ring5.webp" alt="" class="img-fluid"></figure>
                     </div>
                     <div class="txt">
                         <h4 class="price">£ 45.00 <strike>£ 57.00.</strike></h4>
@@ -626,7 +626,7 @@
             <div class="ring-box">
                 <a href="#">
                     <div class="ring-img">
-                        <figure><img src="img/ring1.png" alt="" class="img-fluid"></figure>
+                        <figure><img src="img/ring1.webp" alt="" class="img-fluid"></figure>
                     </div>
                     <div class="txt">
                         <h4 class="price">£ 45.00 <strike>£ 57.00.</strike></h4>
@@ -637,7 +637,7 @@
             <div class="ring-box">
                 <a href="#">
                     <div class="ring-img">
-                        <figure><img src="img/ring2.png" alt="" class="img-fluid"></figure>
+                        <figure><img src="img/ring2.webp" alt="" class="img-fluid"></figure>
                     </div>
                     <div class="txt">
                         <h4 class="price">£ 45.00 <strike>£ 57.00.</strike></h4>
@@ -648,7 +648,7 @@
             <div class="ring-box">
                 <a href="#">
                     <div class="ring-img">
-                        <figure><img src="img/ring3.png" alt="" class="img-fluid"></figure>
+                        <figure><img src="img/ring3.webp" alt="" class="img-fluid"></figure>
                     </div>
                     <div class="txt">
                         <h4 class="price">£ 45.00 <strike>£ 57.00.</strike></h4>
@@ -659,7 +659,7 @@
             <div class="ring-box">
                 <a href="#">
                     <div class="ring-img">
-                        <figure><img src="img/ring4.png" alt="" class="img-fluid"></figure>
+                        <figure><img src="img/ring4.webp" alt="" class="img-fluid"></figure>
                     </div>
                     <div class="txt">
                         <h4 class="price">£ 45.00 <strike>£ 57.00.</strike></h4>
@@ -670,7 +670,7 @@
             <div class="ring-box">
                 <a href="#">
                     <div class="ring-img">
-                        <figure><img src="img/ring5.png" alt="" class="img-fluid"></figure>
+                        <figure><img src="img/ring5.webp" alt="" class="img-fluid"></figure>
                     </div>
                     <div class="txt">
                         <h4 class="price">£ 45.00 <strike>£ 57.00.</strike></h4>
@@ -686,7 +686,7 @@
 <!-- About Sec Start Here -->
 <section class="about_sec pad-10">
     <div class="before">
-        <figure><img src="img/neckles.png" alt="" class="img-fluid"></figure>
+        <figure><img src="img/neckles.webp" alt="" class="img-fluid"></figure>
     </div>
     <div class="container-fluid p-0">
         <div class="row align-items-center">
@@ -708,7 +708,7 @@
             </div>
             <div class="col-lg-7 p-0">
                 <div class="img-box">
-                    <figure><img src="img/lady2.png" alt="" class="img-fluid"></figure>
+                    <figure><img src="img/lady2.webp" alt="" class="img-fluid"></figure>
                 </div>
             </div>
         </div>

@@ -48,7 +48,7 @@
                             <div class="footer-content content-1">
                                 <div class="logo-box">
                                     <a href="index.php">
-                                        <figure><img src="img/footer-logo.png" alt="" class="img-fluid"></figure>
+                                        <figure><img src="img/footer-logo.webp" alt="" class="img-fluid"></figure>
                                     </a>
                                 </div>
                                 <p>
@@ -113,7 +113,7 @@
     <div class="container-fluid p-0">
         <div class="content-div">
             <p>© 2022 Beads Store | All Rights Reserved</p>
-            <figure><img src="img/cards.png" alt="123" class="img-fluid"></figure>
+            <figure><img src="img/cards.webp" alt="123" class="img-fluid"></figure>
         </div>
     </div>
 </div>

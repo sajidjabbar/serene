@@ -5,7 +5,7 @@
             <div class="col-lg-3">
                 <div class="logoDv">
                     <a href="index.php">
-                        <figure><img src="img/logo.png" alt="" class="img-fluid"></figure>
+                        <figure><img src="img/logo.webp" alt="" class="img-fluid"></figure>
                     </a>
                 </div>
             </div>
@@ -48,7 +48,7 @@
                     </div>
                     <div class="cart-item">
                         <div class="icon">
-                            <img src="img/cart.png" alt="" class="img-fluid">
+                            <img src="img/cart.webp" alt="" class="img-fluid">
                             <span class="dot"></span>
                         </div>
                         <div class="txt">
