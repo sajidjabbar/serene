@@ -93,10 +93,10 @@
                         <div class="col-lg-4">
                             <div class="footer-content">
                                 <ul class="links">
-                                    <li><a href="#">lorem ipsum</a></li>
-                                    <li><a href="#">lorem ipsum</a></li>
-                                    <li><a href="#">lorem ipsum</a></li>
-                                    <li><a href="#">lorem ipsum</a></li>
+                                    <li><a href="privacy-policy.php">Privacy Policy</a></li>
+                                    <li><a href="shipping.php">Shipping Policy</a></li>
+                                    <li><a href="return.php">Return Policy</a></li>
+                                    <li><a href="terms-condition.php">Terms & Conditions</a></li>
                                 </ul>
                             </div>
                         </div>

@@ -792,7 +792,8 @@ footer ul.links {
 	list-style: none;
 }
 footer ul.links {
-	text-align: center;
+	margin: 0px auto;
+	display: table;
 }
 footer ul.links li a {
 	color: #fff;
