@@ -76,6 +76,19 @@ figure {
 }
 /* Universal Css End Here */
 
+/* Universal Banner Start Here */
+.universal-banner {
+	background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
+		url("../img/slide1.webp");
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding: 50px 0;
+	text-align: center;
+	color: #fff;
+	background-position: center;
+}
+/* Universal Banner End Here */
+
 /* Header Css Start Here */
 #headerTop {
 	overflow-x: hidden;

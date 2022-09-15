@@ -1,0 +1,173 @@
+/* Shop Css Start Here */
+.shop_sec {
+	padding: 60px 30px;
+}
+.shop_sec .product-box .pro-mg img {
+	width: 150px;
+	height: 170px;
+	margin: 0px auto;
+	display: table;
+}
+.shop_sec .product-box .pro-mg:hover img {
+	filter: unset;
+}
+.shop_sec .product-box .pro-text h5.name {
+	font-size: 16px;
+}
+.shop_sec .product-box .pro-text h4.price {
+	font-size: 20px;
+}
+.shop_sec .product-box {
+	margin-bottom: 30px;
+	box-shadow: 0px 1px 7px #ccc;
+	padding-bottom: 10px;
+}
+.shop_sec .filter .category-box {
+	background: #fff;
+}
+.shop_sec .filter .category-box .title {
+	background: #c91120;
+	padding: 9px 30px 9px;
+}
+.shop_sec .filter .category-box .title h3 {
+	font-size: 20px;
+	line-height: 30px;
+	color: #fff;
+	margin: 0;
+}
+.shop_sec .filter .category-box ul.all-categrories {
+	padding: 0;
+	margin: 0;
+	list-style: none;
+}
+.shop_sec .filter .category-box ul.all-categrories li a {
+	color: #001926;
+	font-size: 20px;
+	text-decoration: none;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	padding-left: 18px;
+	position: relative;
+}
+.shop_sec .filter .category-box ul.all-categrories li a:before {
+	content: "";
+	background: #c91120;
+	width: 7px;
+	height: 7px;
+	position: absolute;
+	left: 0;
+	border-radius: 50%;
+}
+.shop_sec .filter .category-box ul.all-categrories li {
+	border-bottom: 1px solid #a4a4a4;
+	padding: 10px 0;
+}
+.shop_sec .filter .price-sorting {
+	margin-top: 45px;
+	background: #fff;
+}
+.shop_sec .filter .price-sorting .title {
+	background: #c91120;
+	padding: 9px 30px 9px;
+}
+.shop_sec .filter .price-sorting .title h3 {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	font-size: 20px;
+	line-height: 30px;
+	color: #fff;
+	margin: 0;
+}
+.shop_sec .filter .price-sorting ul.prices {
+	padding: 0;
+	margin: 0;
+	list-style: none;
+}
+.shop_sec .filter .price-sorting ul.prices li a {
+	color: #001926;
+	font-size: 20px;
+	text-decoration: none;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	padding-left: 18px;
+	position: relative;
+}
+.shop_sec .filter .price-sorting ul.prices li a:before {
+	content: "";
+	background: #c91120;
+	width: 7px;
+	height: 7px;
+	position: absolute;
+	left: 0;
+	border-radius: 50%;
+}
+.shop_sec .filter .price-sorting ul.prices li {
+	border-bottom: 1px solid #a4a4a4;
+	padding: 10px 0;
+}
+.shop_sec .collection-sortings {
+	margin-bottom: 40px;
+	max-width: 45%;
+}
+.shop_sec .collection-sortings .form-group {
+	display: flex;
+	align-items: center;
+}
+.shop_sec .collection-sortings .form-group label {
+	width: 240px;
+	color: #290004;
+	margin: 0;
+	font-size: 25px;
+	font-weight: 500;
+}
+.shop_sec .collection-sortings .form-group .input-group svg {
+	position: absolute;
+	right: 15px;
+	top: 20px;
+	z-index: 2;
+}
+.shop_sec .collection-sortings .form-control {
+	border-radius: 0;
+	border: 2px solid #290004;
+	padding: 8px 20px 8px 50px;
+	font-size: 17px;
+	color: #000;
+	font-weight: 500;
+	background-image: url("../img/corresponsing.png");
+	background-repeat: no-repeat;
+	background-position: center left 15px;
+	z-index: 2;
+	box-shadow: none;
+}
+ul.pagination {
+	justify-content: end;
+}
+ul.pagination li {
+	margin: 0 4px;
+}
+ul.pagination li a {
+	border: 1px solid #290004;
+	width: 35px;
+	display: block;
+	height: 35px;
+	line-height: 32px;
+	text-align: center;
+	color: #000;
+	font-weight: 600;
+	font-family: "Montserrat";
+	text-decoration: none;
+}
+ul.pagination li a.active {
+	background: #c91120;
+	border-color: #c91120;
+	color: #fff;
+}
+ul.pagination li a i {
+	font-size: 20px;
+	font-weight: 600;
+	margin-top: 6px;
+}
+/* Shop Css End Here */
