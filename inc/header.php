@@ -68,7 +68,7 @@
                 <a href="#" class="menu-links">About us</a>
             </li>
             <li class="menu-items">
-                <a href="#" class="menu-links">Products</a>
+                <a href="shop.php" class="menu-links">Products</a>
             </li>
             <li class="menu-items">
                 <a href="#" class="menu-links">Gift Cards</a>
