@@ -1,0 +1,139 @@
+/* Login Css Start Here */
+.login_sec {
+	padding: 90px 0;
+	position: relative;
+}
+.login_sec .before {
+	position: absolute;
+	bottom: 0;
+	left: 0;
+}
+.login_sec .after {
+	position: absolute;
+	right: 0;
+	top: 0;
+}
+.login_sec .after img {
+	width: 60%;
+	margin: 0px 0 0 auto;
+	display: table;
+	opacity: 0.5;
+}
+.login_sec .before img {
+	width: 70%;
+}
+.login_sec .form-box {
+	padding: 0 50px;
+}
+.login_sec .form-box .heading-wrapper {
+	padding-bottom: 15px;
+	text-align: center;
+}
+.login_sec .form-box .heading-wrapper h2 {
+	font-size: 48px;
+	color: #000000;
+}
+.login_sec .form-box .heading-wrapper p {
+	font-size: 20px;
+	font-family: "Montserrat";
+	color: #000000;
+	font-weight: 500;
+}
+.login_sec .form-group {
+	margin-bottom: 20px;
+}
+.login_sec input {
+	border-radius: 5px;
+	border: 1px solid #b7b7b7;
+	padding: 12px 20px;
+	font-size: 16px;
+	font-family: "Montserrat";
+	background: transparent;
+	font-weight: 600;
+	color: #000 !important;
+}
+.login_sec input::placeholder {
+	color: #000;
+}
+.login_sec input[type="email"] {
+	background-image: url("../img/email.png");
+	background-repeat: no-repeat;
+	background-position: center right 15px;
+}
+.login_sec input[type="password"] {
+	background-image: url("../img/eye.png");
+	background-repeat: no-repeat;
+	background-position: center right 15px;
+}
+.login_sec .remeberdv {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	padding: 10px 0 20px;
+}
+.login_sec .remeberdv .form-group {
+	margin: 0;
+}
+.login_sec .remeberdv label {
+	font-size: 18px;
+	font-family: "Montserrat";
+	font-weight: 600;
+	color: #000;
+}
+.login_sec .remeberdv input {
+	padding: 0;
+	box-shadow: none;
+	border-radius: 0;
+	border: 1px solid #636060;
+}
+.login_sec .remeberdv .link a {
+	font-size: 17px;
+	color: #c91120;
+	font-family: "Montserrat";
+	font-weight: 700;
+	text-decoration: none;
+}
+.login_sec .button-group .btn {
+	width: 100%;
+	background: #c91120;
+	border-radius: 0;
+	font-family: "Montserrat";
+	font-weight: 600;
+	color: #fff;
+	font-size: 20px;
+	padding: 13px 20px;
+	margin-bottom: 15px;
+}
+.login_sec .bottom-bar {
+	text-align: center;
+}
+.login_sec .bottom-bar p {
+	margin: 0;
+	font-size: 18px;
+	color: #000000;
+	font-family: "Montserrat";
+	font-weight: 500;
+}
+.login_sec .bottom-bar p a {
+	color: #c91120;
+	font-weight: 600;
+	text-decoration: underline;
+}
+.login_sec .form-group .input-group input.form-control {
+	margin: 0 12px;
+	padding: 15px 10px;
+	border-radius: 0;
+	text-align: center;
+}
+.login_sec
+	.form-group
+	.input-group
+	input.form-control::-webkit-outer-spin-button,
+.login_sec
+	.form-group
+	.input-group
+	input.form-control::-webkit-inner-spin-button {
+	-webkit-appearance: none;
+	margin: 0;
+}
+/* Login Css End Here */

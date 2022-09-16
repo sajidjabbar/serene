@@ -63,14 +63,6 @@ a.sloth-btn:hover {
 figure {
 	margin-bottom: 0;
 }
-.form-check-input:checked[type="checkbox"] {
-	border-color: #c23127 !important;
-	background-color: transparent !important;
-	background-image: url("../img/tick.webp") !important;
-	background-repeat: no-repeat;
-	background-size: 10px;
-	box-shadow: none;
-}
 .pad-10 {
 	padding: 0 10px;
 }
