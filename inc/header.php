@@ -74,13 +74,13 @@
                 <a href="#" class="menu-links">Gift Cards</a>
             </li>
             <li class="menu-items">
-                <a href="#" class="menu-links">Contact us</a>
+                <a href="contact.php" class="menu-links">Contact us</a>
             </li>
             <li class="menu-items">
                 <a href="#" class="menu-links">Education</a>
             </li>
             <li class="menu-items">
-                <a href="#" class="menu-links">Login</a>
+                <a href="signin.php" class="menu-links">Login</a>
             </li>
         </ul>
     </div>
