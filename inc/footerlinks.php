@@ -77,4 +77,22 @@
         ]
     });
     // Rings Slider Js
+
+    // Product Detail Slider Js
+    $('.single-image').slick({
+        slidesToShow: 1,
+        slidesToScroll: 1,
+        arrows: false,
+        fade: true,
+        asNavFor: '.all-images'
+    });
+    $('.all-images').slick({
+        slidesToShow: 5,
+        slidesToScroll: 1,
+        asNavFor: '.single-image',
+        dots: false,
+        centerMode: false,
+        focusOnSelect: true
+    });
+    // Product Detail Slider Js
 </script>

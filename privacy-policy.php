@@ -31,9 +31,9 @@
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum tempus euismod viverra. Donec luctus dolor tellus, eget congue magna aliquet id. Etiam vulputate libero eget quam blandit fermentum.
             </p>
             <ul>
-                <li><img src="img/tick.png" class="img-fluid" alt=""> Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
-                <li><img src="img/tick.png" class="img-fluid" alt=""> Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem.</li>
-                <li><img src="img/tick.png" class="img-fluid" alt=""> Lorem ipsum dolor sit amet, </li>
+                <li><img src="img/tick.webp" class="img-fluid" alt=""> Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
+                <li><img src="img/tick.webp" class="img-fluid" alt=""> Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem.</li>
+                <li><img src="img/tick.webp" class="img-fluid" alt=""> Lorem ipsum dolor sit amet, </li>
             </ul>
         </div>
     </div>

@@ -19,13 +19,13 @@
 <!-- Login Sec Start Here -->
 <section class="login_sec">
     <div class="before">
-        <figure><img src="img/login-before.png" alt="" class="img-fluid"></figure>
+        <figure><img src="img/login-before.webp" alt="" class="img-fluid"></figure>
     </div>
     <div class="container">
         <div class="row align-items-center">
             <div class="col-lg-6">
                 <div class="img-box">
-                    <figure><img src="img/login1.png" alt="" class="img-fluid"></figure>
+                    <figure><img src="img/login1.webp" alt="" class="img-fluid"></figure>
                 </div>
             </div>
             <div class="col-lg-6">

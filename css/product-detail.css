@@ -1,0 +1,333 @@
+/* Product Detail Css Start Here */
+.product-detail {
+	padding: 60px 0;
+	position: relative;
+}
+.product-detail .product-images {
+	padding: 10px 0;
+}
+.product-detail .content-wrapper {
+	margin-left: 30px;
+}
+.product-detail .content-wrapper .heading-wrapper {
+	max-width: 60%;
+	position: relative;
+	border-bottom: 1px solid #a4a4a4;
+	padding-bottom: 15px;
+	margin-bottom: 20px;
+}
+.product-detail .content-wrapper .heading-wrapper h2.title {
+	font-size: 50px;
+	color: #292929;
+	line-height: 60px;
+	margin-bottom: 15px;
+}
+.product-detail .content-wrapper .heading-wrapper .price h4 {
+	color: #c91120;
+	font-family: "Montserrat";
+	font-weight: 600;
+}
+.product-detail .content-wrapper .heading-wrapper .price h4 strike {
+	color: #878787ad;
+	margin-left: 30px;
+}
+.product-detail .content-wrapper .heading-wrapper ul.stars {
+	padding: 0;
+	margin: 0;
+	list-style: none;
+}
+.product-detail .content-wrapper .heading-wrapper ul.stars li {
+	display: inline-block;
+}
+.product-detail .content-wrapper .description p {
+	font-family: "Montserrat";
+	font-weight: 600;
+	color: #000000;
+}
+.product-detail .content-wrapper .for-flex {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	margin-bottom: 25px;
+}
+.product-detail .content-wrapper .all-variation {
+	max-width: 55%;
+	margin-top: 30px;
+}
+.product-detail .content-wrapper .all-variation span.property {
+	font-size: 20px;
+	color: #001a26;
+	font-weight: 600;
+}
+.product-detail .content-wrapper .stock span.value {
+	color: green;
+}
+.product-detail .content-wrapper .all-variation .subtotal span.value {
+	color: #c91120;
+}
+.product-detail .content-wrapper .all-variation span.value {
+	font-family: "Poppins";
+	font-weight: 600;
+	font-size: 20px;
+	width: 150px;
+}
+.product-detail .content-wrapper .all-variation span.value img {
+	max-width: 70px;
+}
+.product-detail .content-wrapper .all-variation .input-group {
+	max-width: 150px;
+}
+.product-detail .content-wrapper .all-variation .input-group button {
+	border: 1px solid #000000;
+	background: transparent;
+	width: 40px;
+	height: 40px;
+	margin: 0 5px;
+}
+.product-detail .content-wrapper .all-variation .input-group .form-control {
+	border: 1px solid #000000;
+	font-family: "Poppins";
+	text-align: center;
+	font-weight: 600;
+}
+.product-detail .content-wrapper .all-variation .input-group input {
+	margin: 0 5px;
+	box-shadow: none;
+}
+.product-detail
+	.content-wrapper
+	.all-variation
+	.input-group
+	input::-webkit-outer-spin-button,
+.product-detail
+	.content-wrapper
+	.all-variation
+	.input-group
+	input::-webkit-inner-spin-button {
+	-webkit-appearance: none;
+	margin: 0;
+}
+.product-detail .content-wrapper .button-group {
+	margin-top: 50px;
+}
+.product-detail .content-wrapper .button-group button.btn {
+	background: #000000;
+	border-radius: 0;
+	padding: 12px 40px;
+	color: #fff;
+	font-family: "Montserrat";
+	font-weight: 500;
+	margin-right: 20px;
+	transition: 0.6s;
+	border: 2px solid #000;
+}
+.product-detail .content-wrapper .button-group button.btn i {
+	margin-right: 5px;
+}
+.product-detail .content-wrapper .button-group button.btn:hover {
+	background: #fff;
+	color: #000;
+}
+.product-detail .after {
+	position: absolute;
+	right: 0;
+	bottom: 50px;
+	text-align: center;
+}
+.product-detail .after img {
+	width: 70%;
+}
+.product-detail .before {
+	position: absolute;
+	right: 0;
+	top: -60px;
+	text-align: end;
+	z-index: -1;
+}
+.product-detail .before img {
+	width: 70%;
+}
+/* Product Detail Css End Here */
+
+/* Description Css Start Here */
+.description_sec {
+	padding-bottom: 50px;
+}
+.description_sec ul.nav-pills li button {
+	border: 2px solid #232323;
+	font-size: 18px;
+	font-weight: 600;
+	color: #232323;
+	border-radius: 4px;
+	margin-right: 20px;
+}
+.description_sec ul.nav-pills li button.active {
+	border-color: #c91120;
+	background: #c91120;
+}
+.description_sec .description-box p {
+	font-size: 17px;
+	color: #000000;
+	font-weight: 600;
+}
+.description_sec .description-box .detail {
+	padding: 20px 0;
+}
+.description_sec .description-box h3 {
+	color: #232323;
+	font-size: 32px;
+}
+.description_sec .description-box ul li {
+	font-weight: 600;
+	color: #000000;
+	font-size: 18px;
+	margin-bottom: 5px;
+}
+/* Description Css End Here */
+
+/* Reviews Css Start Here */
+.description_sec .reviews_sec .rating > label {
+	color: #90a0a3;
+	float: right;
+}
+.description_sec .reviews_sec .rating > label:before {
+	margin: 1.8px;
+	font-size: 0.9em;
+	font-family: "FontAwesome";
+	content: "\f006";
+	display: inline-block;
+}
+.description_sec .reviews_sec .rating > input {
+	display: none;
+}
+.description_sec .reviews_sec .rating > input:checked ~ label,
+.description_sec .reviews_sec .rating:not(:checked) > label:hover,
+.description_sec .reviews_sec .rating:not(:checked) > label:hover ~ label {
+	color: #f79426;
+}
+.description_sec .reviews_sec .rating > input:checked + label:hover,
+.description_sec .reviews_sec .rating > input:checked ~ label:hover,
+.description_sec .reviews_sec .rating > label:hover ~ input:checked ~ label,
+.description_sec .reviews_sec .rating > input:checked ~ label:hover ~ label {
+	color: #fece31;
+}
+.description_sec .reviews_sec {
+	margin-top: 40px;
+}
+.description_sec .reviews_sec .heading-wrapper {
+	padding-bottom: 40px;
+}
+.description_sec .reviews_sec .heading-wrapper h4 {
+	font-size: 30px;
+	color: #232323;
+	font-weight: 700;
+	line-height: 40px;
+	margin-bottom: 20px;
+}
+.description_sec .reviews_sec .heading-wrapper p {
+	font-weight: 600;
+	font-size: 18px;
+	font-family: "Montserrat";
+	color: #000000;
+}
+.description_sec .reviews_sec .review-box {
+	display: flex;
+	align-items: flex-start;
+	margin-bottom: 30px;
+}
+.description_sec .reviews_sec .review-box .review-img img {
+	width: 175px;
+	border-radius: 50%;
+}
+.description_sec .reviews_sec .review-box .review-img {
+	margin-right: 20px;
+}
+.description_sec .reviews_sec .review-box .review-content {
+	border-bottom: 1px solid #0000005e;
+	padding-bottom: 10px;
+}
+.description_sec .reviews_sec .review-box .review-content h3.title {
+	color: #0c0202;
+	font-size: 30px;
+	line-height: 40px;
+}
+.description_sec .reviews_sec .review-box .review-content p {
+	font-size: 16px;
+	font-family: "Montserrat";
+	font-weight: 500;
+	color: #030303;
+}
+.description_sec .reviews_sec .review-box button.rply {
+	color: #242424;
+	font-size: 20px;
+	font-family: "Montserrat";
+	background: transparent;
+	border: 0;
+	font-weight: 500;
+	outline: none;
+	padding: 0;
+	box-shadow: none;
+}
+.description_sec .reviews_sec .form-box .heading h4 {
+	font-size: 40px;
+	color: #232323;
+	line-height: 50px;
+	font-weight: 600;
+}
+.description_sec .reviews_sec .form-box .heading {
+	margin-bottom: 20px;
+}
+.description_sec .reviews_sec .form-box .form-group {
+	position: relative;
+	margin-bottom: 25px;
+}
+.description_sec .reviews_sec .form-box .form-group .rating {
+	position: absolute;
+	bottom: 10px;
+	right: 10px;
+}
+.description_sec .reviews_sec .form-box .form-group .form-control {
+	border: 1px solid #000000;
+	border-radius: 0;
+	padding: 9px 20px;
+	font-family: "Montserrat";
+	font-weight: 600;
+	color: #000;
+	background: transparent;
+}
+.description_sec .reviews_sec .form-box .form-group .form-control::placeholder {
+	color: #000;
+}
+.description_sec .reviews_sec .form-box .form-group textarea {
+	height: 120px;
+	resize: none;
+}
+.description_sec .reviews_sec .form-box .bottom-bar {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	margin-top: 20px;
+}
+.description_sec .reviews_sec .form-box .bottom-bar .check label {
+	color: #000000;
+	font-size: 16px;
+	font-family: "Poppins";
+	font-weight: 500;
+}
+.description_sec .reviews_sec .form-box .bottom-bar .check input {
+	border-radius: 0;
+	box-shadow: none;
+	border: 1px solid #000;
+	margin-right: 15px;
+}
+
+.description_sec .reviews_sec .form-box .bottom-bar .check input:checked {
+	background: #000;
+}
+.description_sec .reviews_sec .form-box .bottom-bar .btn {
+	background: #c91120;
+	color: #fff;
+	font-weight: 500;
+	padding: 9px 16px;
+}
+/* Reviews Css End Here */
