@@ -1,4 +1,26 @@
-// Pre Loader Js
+
+// /**** Profile Js Start Here *****\  \\
+$(".edit_profile").click(function () {
+	$(".complete_profile_section").addClass("hide");
+	$(".update_profile").removeClass("hide");
+});
+$(".Change_Your_Address").click(function () {
+	$(".complete_profile_section").addClass("hide");
+	$(".change_address").parent().removeClass("hide");
+});
+$(".change_password_now").click(function () {
+	$(".complete_profile_section").addClass("hide");
+	$(".change_password").parent().removeClass("hide");
+});
+$(".view_order_detail").click(function () {
+	$(".order_table_start").addClass("hide");
+	$(".order_detail_page").removeClass("hide");
+});
+$(".back_btn").click(function () {
+	$(".order_detail_page").addClass("hide");
+	$(".order_table_start").removeClass("hide");
+});
+// Pre Loader Js 
 $(window).on("load", function () {
 	// console.log("test");
 	$("#preloader").fadeOut(1000);
@@ -46,3 +68,4 @@ video.addEventListener("pause", function () {
 	circlePlayButton.style.opacity = 1;
 });
 // Product Detail Video Js
+
