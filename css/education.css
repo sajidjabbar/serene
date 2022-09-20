@@ -1,0 +1,192 @@
+/* Education Css Start Here */
+.eductaion_sec {
+	padding: 60px 20px;
+}
+.eductaion_sec .recent-post .title {
+	background: #c91120;
+	padding: 5px 15px;
+}
+.eductaion_sec .recent-post .title h4 {
+	margin: 0;
+	color: #fff;
+	font-size: 17px;
+}
+.recent-post .post-dv {
+	display: flex;
+	align-items: center;
+	padding: 15px 0;
+	border-bottom: 1px solid #a4a4a4;
+}
+.recent-post .post-dv .txt {
+	margin-left: 10px;
+}
+.recent-post .post-dv .txt p {
+	margin-bottom: 4px;
+	font-size: 14px;
+	font-family: "Montserrat";
+	font-weight: 500;
+}
+.recent-post .post-dv h4 {
+	font-size: 20px;
+	font-weight: 400;
+	margin-bottom: 4px;
+	line-height: 30px;
+}
+.recent-post .post-dv:last-child {
+	border-bottom: 0;
+}
+.blog-posts {
+	margin-bottom: 25px;
+}
+.blog-posts .img-box img {
+	height: 220px;
+	width: 100%;
+	object-fit: cover;
+}
+.blog-posts .content {
+	max-width: 90%;
+}
+.blog-posts .content h3 {
+	font-size: 40px;
+	color: #232323;
+	line-height: 50px;
+}
+.blog-posts .content ul.actions {
+	padding: 0;
+	list-style: none;
+	display: flex;
+	align-items: center;
+	margin: 0 0 10px 0;
+}
+.blog-posts .content ul.actions li {
+	font-size: 16px;
+	color: #030303;
+	font-family: "Montserrat";
+	margin-right: 25px;
+}
+.blog-posts .content ul.actions li i {
+	color: #c91120;
+}
+.blog-posts .content p {
+	font-family: "Montserrat";
+	font-weight: 500;
+	font-size: 15px;
+	line-height: 20px;
+	margin-bottom: 28px;
+}
+.blog-posts .content a.sloth-btn {
+	padding: 13px 25px;
+	font-size: 17px;
+	font-weight: 700;
+	border-radius: 5px;
+}
+/* Education Css End Here */
+
+/* Education Detail Css Start Here */
+.post-detail .content-wrapper {
+	margin-top: 10px;
+}
+.post-detail .content-wrapper .date p {
+	margin: 0 0 10px 0;
+	color: #000000;
+	font-family: "Poppins";
+	font-weight: 500;
+}
+.post-detail .content-wrapper .title-wrapper h3 {
+	font-size: 32px;
+	color: #000000;
+	font-weight: 700;
+	line-height: 42px;
+}
+.post-detail .content-wrapper .title-wrapper p {
+	font-family: "Poppins";
+	color: #000000;
+	font-weight: 400;
+}
+.post-detail .content-wrapper .title-wrapper {
+	border-bottom: 1px solid #a4a4a4a6;
+	padding-bottom: 10px;
+}
+.post-detail .content-wrapper .share-option {
+	padding-top: 30px;
+}
+.post-detail .content-wrapper .share-option p {
+	font-size: 20px;
+	font-family: "Montserrat";
+	font-weight: 600;
+}
+.post-detail .content-wrapper .share-option p i {
+	color: #c91120;
+	margin-right: 5px;
+}
+.post-detail .content-wrapper .share-option .social-icons {
+	display: flex;
+	align-items: center;
+}
+.post-detail .content-wrapper .share-option .social-icons label {
+	font-size: 20px;
+	color: #0a0a0a;
+	font-family: "Montserrat";
+	font-weight: 500;
+}
+.post-detail .content-wrapper .share-option .social-icons ul.social {
+	padding: 0;
+	margin: 0 0 0 15px;
+}
+.post-detail .content-wrapper .share-option .social-icons ul.social li {
+	display: inline-block;
+	list-style: none;
+	margin: 0 4px;
+}
+.post-detail .content-wrapper .share-option .social-icons ul.social li a {
+	color: #c91120;
+	font-size: 20px;
+}
+
+.post-detail .comment-sec {
+	margin-top: 30px;
+}
+.post-detail .comment-sec .title h4 {
+	font-size: 30px;
+	color: #000000;
+	line-height: 40px;
+	font-weight: 700;
+}
+.comment-box {
+	display: flex;
+	align-items: flex-start;
+	padding-top: 25px;
+}
+.comment-box .review-img img {
+	width: 180px;
+}
+.comment-box .content {
+	margin-left: 15px;
+	border-bottom: 1px solid #0000008c;
+	padding: 0px 0 20px;
+}
+.comment-box .content .name h4 {
+	color: #242424;
+	font-size: 22px;
+	font-weight: 700;
+	line-height: 32px;
+}
+.comment-box .content .name p {
+	color: #818181;
+	font-size: 14px;
+	font-family: "Montserrat";
+	margin: 0 0 5px 0;
+}
+.comment-box .content p {
+	color: #000000;
+	font-family: "Montserrat";
+	font-weight: 500;
+}
+.comment-box .content .reply-btn a {
+	font-size: 18px;
+	color: #242424;
+	text-decoration: none;
+	font-family: "Poppins";
+	font-weight: 500;
+}
+/* Education Detail Css End Here */

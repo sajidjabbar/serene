@@ -1,0 +1,186 @@
+/* Thank You Css Start Here */
+.thank-you {
+	padding: 60px 0;
+}
+.thank-you .heading-wrapper {
+	text-align: center;
+}
+.thank-you .heading-wrapper h3 {
+	color: #c91120;
+	padding-bottom: 10px;
+}
+.thank-you .thankyou-inner {
+	border: 1px solid #cccccce3;
+	padding: 20px 60px 0px;
+	border-radius: 15px;
+	margin-top: 25px;
+}
+.thank-you .order-number {
+	text-align: center;
+}
+.thank-you .order-number h4 {
+	font-size: 22px;
+	color: #2a263d;
+	font-family: "Poppins";
+	font-weight: 500;
+}
+.thank-you .order-number p {
+	font-size: 25px;
+	color: #c91120;
+	font-family: "Montserrat";
+}
+.checkout-products {
+	height: 210px;
+	overflow-y: scroll;
+	overflow-x: hidden;
+}
+.checkout-products::-webkit-scrollbar {
+	width: 0.2em;
+}
+.checkout-products::-webkit-scrollbar-thumb {
+	background-color: #402218;
+}
+.checkout-products .products {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	border-bottom: 1px solid #70707073;
+	padding: 16px 0;
+	position: relative;
+	margin-right: 15px;
+}
+.checkout-products .products .abt-product {
+	display: flex;
+	align-items: center;
+}
+.checkout-products .products .abt-product .img-box img {
+	width: 60px;
+}
+.checkout-products .products .abt-product .pro-dtl {
+	padding-left: 15px;
+}
+.checkout-products .products .abt-product .pro-dtl h5.name {
+	font-size: 18px;
+	color: #000;
+	font-weight: 600;
+}
+.checkout-products .products .abt-product .pro-dtl ul.variations {
+	margin-bottom: 0;
+	padding: 0;
+	list-style: none;
+	/* display: flex; */
+	/* align-items: center; */
+}
+.checkout-products .products .img-box figure {
+	margin-bottom: 0;
+}
+.checkout-products .products .abt-product .pro-dtl ul.variations li {
+	/* padding: 0 7px; */
+	font-weight: 500;
+	color: #1f2c35;
+	font-size: 16px;
+	font-family: "Montserrat";
+}
+.checkout-products .products .abt-product .pro-dtl ul.variations li:last-child {
+	border: 0;
+}
+.checkout-products
+	.products
+	.abt-product
+	.pro-dtl
+	ul.variations
+	li:first-child {
+	padding-left: 0;
+}
+.checkout-products .products .product-price h4.price {
+	color: #c23127;
+	font-size: 19px;
+	font-weight: 700;
+	font-family: "Montserrat";
+}
+.thank-you .shiiping-address {
+	border-bottom: 1px solid #70707073;
+	padding-top: 13px;
+}
+.thank-you .shiiping-address .title {
+	padding-bottom: 20px;
+}
+.thank-you .shiiping-address .title h4 {
+	font-size: 28px;
+	color: #2a263d;
+	font-weight: 800;
+}
+.thank-you .shiiping-address ul.details {
+	padding: 0;
+	list-style: none;
+}
+.thank-you .shiiping-address ul.details li {
+	display: flex;
+	margin-bottom: 7px;
+}
+.thank-you .shiiping-address ul.details li h4 {
+	font-size: 18px;
+	color: #244638;
+	font-family: "Montserrat";
+}
+.thank-you .shiiping-address ul.details li h4.property {
+	width: 110px;
+}
+.thank-you .pymnt-detail {
+	padding: 30px 0 20px;
+}
+.thank-you .pymnt-detail .title {
+	padding-bottom: 15px;
+}
+.thank-you .pymnt-detail .title h4 {
+	font-size: 28px;
+	line-height: 38px;
+	color: #2a263d;
+	font-weight: 800;
+}
+.thank-you .pymnt-detail ul {
+	padding: 0;
+	list-style: none;
+}
+.thank-you .pymnt-detail ul li {
+	display: flex;
+	align-items: center;
+	margin-bottom: 5px;
+	justify-content: space-between;
+}
+.thank-you .pymnt-detail ul li h4 {
+	font-size: 18px;
+	color: #244638;
+	font-family: "Montserrat";
+}
+.thank-you .pymnt-detail ul li.total {
+	border-top: 1px solid #70707073;
+	padding-top: 20px;
+	margin-top: 20px;
+}
+.thank-you .pymnt-detail ul li.total h4 {
+	color: #000;
+	font-size: 24px;
+	line-height: 34px;
+}
+.thank-you .pymnt-detail ul li.total h4.property {
+	color: #c91120;
+}
+.thank-you .thankyou-inner .order-review h3 {
+	font-size: 28px;
+	line-height: 38px;
+}
+.thank-you .button-group {
+	margin-top: 30px;
+}
+.thank-you .button-group button.btn {
+	background: #c91120;
+	border-radius: 0;
+	width: 100%;
+	padding: 10px 0;
+	font-family: "Montserrat";
+	font-size: 20px;
+	color: #fff;
+	font-weight: 600;
+}
+/* Thank You Css End Here */
