@@ -39,7 +39,7 @@
                                     Gems and Jewelry in<br />
                                     lowest price</h1>
                                 <div class="button-group">
-                                    <a href="#" class="sloth-btn">Shop Now</a>
+                                    <a href="shop.php" class="sloth-btn">Shop Now</a>
                                 </div>
                             </div>
                         </div>
@@ -54,7 +54,7 @@
                                 <h1>Discover The best
                                     Jewelry</h1>
                                 <div class="button-group">
-                                    <a href="#" class="sloth-btn">Shop Now</a>
+                                    <a href="shop.php" class="sloth-btn">Shop Now</a>
                                 </div>
                             </div>
                         </div>
@@ -69,7 +69,7 @@
                                 <h1>Natural Beads
                                     & Jewellery</h1>
                                 <div class="button-group">
-                                    <a href="#" class="sloth-btn">Shop Now</a>
+                                    <a href="shop.php" class="sloth-btn">Shop Now</a>
                                 </div>
                             </div>
                         </div>
@@ -98,7 +98,7 @@
                     </div>
                     <div class="cat-text">
                         <h3>Jewellery</h3>
-                        <a href="#" class="sloth-btn">Shop Now</a>
+                        <a href="shop.php" class="sloth-btn">Shop Now</a>
                     </div>
                 </div>
             </div>
@@ -109,7 +109,7 @@
                     </div>
                     <div class="cat-text">
                         <h3>Natural<br /> Beads</h3>
-                        <a href="#" class="sloth-btn">Shop Now</a>
+                        <a href="shop.php" class="sloth-btn">Shop Now</a>
                     </div>
                 </div>
             </div>
@@ -120,7 +120,7 @@
                     </div>
                     <div class="cat-text">
                         <h3>Natural<br /> Stones</h3>
-                        <a href="#" class="sloth-btn">Shop Now</a>
+                        <a href="shop.php" class="sloth-btn">Shop Now</a>
                     </div>
                 </div>
             </div>
@@ -131,7 +131,7 @@
                     </div>
                     <div class="cat-text">
                         <h3>Rough and <br /> Slabs"</h3>
-                        <a href="#" class="sloth-btn">Shop Now</a>
+                        <a href="shop.php" class="sloth-btn">Shop Now</a>
                     </div>
                 </div>
             </div>
@@ -152,7 +152,7 @@
         <div class="row">
             <div class="col-lg-3 col-md-4">
                 <div class="product-box">
-                    <a href="#">
+                    <a href="product-detail.php">
                         <div class="pro-mg">
                             <figure><img src="img/pro1.webp" alt="" class="img-fluid"></figure>
                         </div>
@@ -165,7 +165,7 @@
             </div>
             <div class="col-lg-3 col-md-4">
                 <div class="product-box">
-                    <a href="#">
+                    <a href="product-detail.php">
                         <div class="pro-mg">
                             <figure><img src="img/pro2.webp" alt="" class="img-fluid"></figure>
                         </div>
@@ -178,7 +178,7 @@
             </div>
             <div class="col-lg-3 col-md-4">
                 <div class="product-box">
-                    <a href="#">
+                    <a href="product-detail.php">
                         <div class="pro-mg">
                             <figure><img src="img/pro3.webp" alt="" class="img-fluid"></figure>
                         </div>
@@ -191,7 +191,7 @@
             </div>
             <div class="col-lg-3 col-md-4">
                 <div class="product-box">
-                    <a href="#">
+                    <a href="product-detail.php">
                         <div class="pro-mg">
                             <figure><img src="img/pro4.webp" alt="" class="img-fluid"></figure>
                         </div>
@@ -204,7 +204,7 @@
             </div>
             <div class="col-lg-3 col-md-4">
                 <div class="product-box">
-                    <a href="#">
+                    <a href="product-detail.php">
                         <div class="pro-mg">
                             <figure><img src="img/pro5.webp" alt="" class="img-fluid"></figure>
                         </div>
@@ -217,7 +217,7 @@
             </div>
             <div class="col-lg-3 col-md-4">
                 <div class="product-box">
-                    <a href="#">
+                    <a href="product-detail.php">
                         <div class="pro-mg">
                             <figure><img src="img/pro6.webp" alt="" class="img-fluid"></figure>
                         </div>
@@ -230,7 +230,7 @@
             </div>
             <div class="col-lg-3 col-md-4">
                 <div class="product-box">
-                    <a href="#">
+                    <a href="product-detail.php">
                         <div class="pro-mg">
                             <figure><img src="img/pro7.webp" alt="" class="img-fluid"></figure>
                         </div>
@@ -243,7 +243,7 @@
             </div>
             <div class="col-lg-3 col-md-4">
                 <div class="product-box">
-                    <a href="#">
+                    <a href="product-detail.php">
                         <div class="pro-mg">
                             <figure><img src="img/pro8.webp" alt="" class="img-fluid"></figure>
                         </div>

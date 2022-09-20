@@ -172,7 +172,7 @@
                 <div class="row">
                     <div class="col-lg-3 col-md-4">
                         <div class="product-box">
-                            <a href="#">
+                            <a href="product-detail.php">
                                 <div class="pro-mg">
                                     <figure><img src="img/ring2.webp" alt="" class="img-fluid"></figure>
                                 </div>
@@ -185,7 +185,7 @@
                     </div>
                     <div class="col-lg-3 col-md-4">
                         <div class="product-box">
-                            <a href="#">
+                            <a href="product-detail.php">
                                 <div class="pro-mg">
                                     <figure><img src="img/ring5.webp" alt="" class="img-fluid"></figure>
                                 </div>
@@ -198,7 +198,7 @@
                     </div>
                     <div class="col-lg-3 col-md-4">
                         <div class="product-box">
-                            <a href="#">
+                            <a href="product-detail.php">
                                 <div class="pro-mg">
                                     <figure><img src="img/ring4.webp" alt="" class="img-fluid"></figure>
                                 </div>
@@ -211,7 +211,7 @@
                     </div>
                     <div class="col-lg-3 col-md-4">
                         <div class="product-box">
-                            <a href="#">
+                            <a href="product-detail.php">
                                 <div class="pro-mg">
                                     <figure><img src="img/ring5.webp" alt="" class="img-fluid"></figure>
                                 </div>
@@ -224,7 +224,7 @@
                     </div>
                     <div class="col-lg-3 col-md-4">
                         <div class="product-box">
-                            <a href="#">
+                            <a href="product-detail.php">
                                 <div class="pro-mg">
                                     <figure><img src="img/ring2.webp" alt="" class="img-fluid"></figure>
                                 </div>
@@ -237,7 +237,7 @@
                     </div>
                     <div class="col-lg-3 col-md-4">
                         <div class="product-box">
-                            <a href="#">
+                            <a href="product-detail.php">
                                 <div class="pro-mg">
                                     <figure><img src="img/ring5.webp" alt="" class="img-fluid"></figure>
                                 </div>
@@ -250,7 +250,7 @@
                     </div>
                     <div class="col-lg-3 col-md-4">
                         <div class="product-box">
-                            <a href="#">
+                            <a href="product-detail.php">
                                 <div class="pro-mg">
                                     <figure><img src="img/ring4.webp" alt="" class="img-fluid"></figure>
                                 </div>
@@ -263,7 +263,7 @@
                     </div>
                     <div class="col-lg-3 col-md-4">
                         <div class="product-box">
-                            <a href="#">
+                            <a href="product-detail.php">
                                 <div class="pro-mg">
                                     <figure><img src="img/ring5.webp" alt="" class="img-fluid"></figure>
                                 </div>
@@ -276,7 +276,7 @@
                     </div>
                     <div class="col-lg-3 col-md-4">
                         <div class="product-box">
-                            <a href="#">
+                            <a href="product-detail.php">
                                 <div class="pro-mg">
                                     <figure><img src="img/ring2.webp" alt="" class="img-fluid"></figure>
                                 </div>
@@ -289,7 +289,7 @@
                     </div>
                     <div class="col-lg-3 col-md-4">
                         <div class="product-box">
-                            <a href="#">
+                            <a href="product-detail.php">
                                 <div class="pro-mg">
                                     <figure><img src="img/ring5.webp" alt="" class="img-fluid"></figure>
                                 </div>
@@ -302,7 +302,7 @@
                     </div>
                     <div class="col-lg-3 col-md-4">
                         <div class="product-box">
-                            <a href="#">
+                            <a href="product-detail.php">
                                 <div class="pro-mg">
                                     <figure><img src="img/ring4.webp" alt="" class="img-fluid"></figure>
                                 </div>
@@ -315,7 +315,7 @@
                     </div>
                     <div class="col-lg-3 col-md-4">
                         <div class="product-box">
-                            <a href="#">
+                            <a href="product-detail.php">
                                 <div class="pro-mg">
                                     <figure><img src="img/ring5.webp" alt="" class="img-fluid"></figure>
                                 </div>
@@ -328,7 +328,7 @@
                     </div>
                     <div class="col-lg-3 col-md-4">
                         <div class="product-box">
-                            <a href="#">
+                            <a href="product-detail.php">
                                 <div class="pro-mg">
                                     <figure><img src="img/ring2.webp" alt="" class="img-fluid"></figure>
                                 </div>
@@ -341,7 +341,7 @@
                     </div>
                     <div class="col-lg-3 col-md-4">
                         <div class="product-box">
-                            <a href="#">
+                            <a href="product-detail.php">
                                 <div class="pro-mg">
                                     <figure><img src="img/ring5.webp" alt="" class="img-fluid"></figure>
                                 </div>
@@ -354,7 +354,7 @@
                     </div>
                     <div class="col-lg-3 col-md-4">
                         <div class="product-box">
-                            <a href="#">
+                            <a href="product-detail.php">
                                 <div class="pro-mg">
                                     <figure><img src="img/ring4.webp" alt="" class="img-fluid"></figure>
                                 </div>
@@ -367,7 +367,7 @@
                     </div>
                     <div class="col-lg-3 col-md-4">
                         <div class="product-box">
-                            <a href="#">
+                            <a href="product-detail.php">
                                 <div class="pro-mg">
                                     <figure><img src="img/ring5.webp" alt="" class="img-fluid"></figure>
                                 </div>

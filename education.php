@@ -86,7 +86,7 @@
                                     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco. Lorem Ipsum is simply dummy tex.
                                 </p>
                                 <div class="button-group">
-                                    <a href="#" class="sloth-btn">Read More</a>
+                                    <a href="education-detail.php" class="sloth-btn">Read More</a>
                                 </div>
                             </div>
                         </div>
@@ -110,7 +110,7 @@
                                     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco. Lorem Ipsum is simply dummy tex.
                                 </p>
                                 <div class="button-group">
-                                    <a href="#" class="sloth-btn">Read More</a>
+                                    <a href="education-detail.php" class="sloth-btn">Read More</a>
                                 </div>
                             </div>
                         </div>
@@ -134,7 +134,7 @@
                                     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco. Lorem Ipsum is simply dummy tex.
                                 </p>
                                 <div class="button-group">
-                                    <a href="#" class="sloth-btn">Read More</a>
+                                    <a href="education-detail.php" class="sloth-btn">Read More</a>
                                 </div>
                             </div>
                         </div>
@@ -158,7 +158,7 @@
                                     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco. Lorem Ipsum is simply dummy tex.
                                 </p>
                                 <div class="button-group">
-                                    <a href="#" class="sloth-btn">Read More</a>
+                                    <a href="education-detail.php" class="sloth-btn">Read More</a>
                                 </div>
                             </div>
                         </div>
@@ -182,7 +182,7 @@
                                     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco. Lorem Ipsum is simply dummy tex.
                                 </p>
                                 <div class="button-group">
-                                    <a href="#" class="sloth-btn">Read More</a>
+                                    <a href="education-detail.php" class="sloth-btn">Read More</a>
                                 </div>
                             </div>
                         </div>

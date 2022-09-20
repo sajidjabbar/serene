@@ -1,6 +1,25 @@
 /* Thank You Css Start Here */
 .thank-you {
 	padding: 60px 0;
+	position: relative;
+}
+.thank-you .before {
+	position: absolute;
+	left: 0;
+	top: 0;
+}
+.thank-you .before img {
+	width: 60%;
+	opacity: 0.3;
+}
+.thank-you .after {
+	position: absolute;
+	bottom: 20px;
+	right: 0;
+	text-align: end;
+}
+.thank-you .after img {
+	width: 70%;
 }
 .thank-you .heading-wrapper {
 	text-align: center;

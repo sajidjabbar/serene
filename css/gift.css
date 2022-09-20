@@ -1,0 +1,116 @@
+/* Gift Css Start Here */
+.gift_sec {
+	padding: 60px 40px;
+}
+.gift_sec .content-wrapper .heading-wrapper h3 {
+	color: #292929;
+	margin: 0;
+}
+.gift_sec .content-wrapper .heading-wrapper {
+	border-bottom: 1px solid #a4a4a4;
+	padding-bottom: 15px;
+}
+.gift_sec .content-wrapper p {
+	font-family: "Montserrat";
+	font-weight: 500;
+	line-height: 24px;
+	padding-top: 15px;
+}
+.gift_sec .content-wrapper .quantity {
+	display: flex;
+	align-items: center;
+}
+.gift_sec .content-wrapper .quantity .form-group {
+	display: flex;
+}
+.gift_sec .content-wrapper .quantity .form-group button {
+	border: 1px solid #000000;
+	background: transparent;
+	width: 35px;
+	height: 35px;
+}
+.gift_sec .content-wrapper .quantity .form-group input {
+	height: 35px;
+	border-radius: 0;
+	width: 40px;
+	margin: 0 10px;
+	border: 1px solid #000000;
+	font-family: "Montserrat";
+	font-weight: 600;
+	padding: 0;
+	text-align: center;
+}
+.gift_sec
+	.content-wrapper
+	.quantity
+	.form-group
+	input::-webkit-outer-spin-button,
+.gift_sec
+	.content-wrapper
+	.quantity
+	.form-group
+	input::-webkit-inner-spin-button {
+	-webkit-appearance: none;
+	margin: 0;
+}
+.gift_sec .content-wrapper .quantity label {
+	color: #000000;
+	font-size: 22px;
+	font-weight: 700;
+	width: 160px;
+}
+.gift_sec .content-wrapper .gift-amount {
+	margin-top: 40px;
+}
+.gift_sec .content-wrapper .gift-amount h3 {
+	font-size: 30px;
+	line-height: 40px;
+	color: #2a263d;
+}
+.gift_sec .content-wrapper .gift-amount ul.all-amounts {
+	padding: 0;
+	list-style: none;
+	margin: 35px 0 0 0;
+}
+.gift_sec .content-wrapper .gift-amount ul.all-amounts li {
+	display: inline-block;
+}
+.gift-amount ul.all-amounts li label span.checkmark .price {
+	border: 2px solid #c91120;
+	width: 100px;
+	margin: 0 15px 0 0px;
+	border-radius: 3px;
+	height: 45px;
+	text-align: center;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.gift-amount ul.all-amounts li label span.checkmark .price h5 {
+	margin: 0;
+	font-size: 18px;
+	color: #c91120;
+	font-weight: 700;
+}
+.gift-amount ul.all-amounts li label input:checked ~ span.checkmark .price {
+	background: #c91120;
+}
+.gift-amount ul.all-amounts li label input:checked ~ span.checkmark .price h5 {
+	color: #fff;
+}
+.gift_sec .content-wrapper .button-group {
+	margin-top: 50px;
+}
+.gift_sec .content-wrapper .button-group .btn {
+	color: #290004;
+	border: 2px solid #290004;
+	border-radius: 0;
+	font-family: "Montserrat";
+	padding: 10px 40px;
+	font-weight: 500;
+	font-size: 17px;
+}
+.gift_sec .content-wrapper .button-group .btn i {
+	margin-right: 5px;
+}
+/* Gift Css End Here */

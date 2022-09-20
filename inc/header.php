@@ -33,28 +33,32 @@
             </div>
             <div class="col-lg-3">
                 <div class="right-side">
-                    <div class="profile-box">
-                        <div class="icon">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="35.193" height="39.822" viewBox="0 0 35.193 39.822">
-                                <g id="Group_10001" data-name="Group 10001" transform="translate(19863.361 12923.757)">
-                                    <path id="Path_41" data-name="Path 41" d="M131.078,0a10.078,10.078,0,1,0,10.078,10.078A10.089,10.089,0,0,0,131.078,0Z" transform="translate(-19976.84 -12922.957)" fill="none" stroke="#fff" stroke-width="1.6" />
-                                    <path id="Path_42" data-name="Path 42" d="M60.336,304.344A14.367,14.367,0,0,0,50.036,300H45.557a14.367,14.367,0,0,0-10.3,4.344A14.688,14.688,0,0,0,31,314.707a1.12,1.12,0,0,0,1.12,1.12H63.474a1.12,1.12,0,0,0,1.12-1.12A14.687,14.687,0,0,0,60.336,304.344Z" transform="translate(-19893.561 -13200.561)" fill="none" stroke="#fff" stroke-width="1.6" />
-                                </g>
-                            </svg>
+                    <a href="profile.php">
+                        <div class="profile-box">
+                            <div class="icon">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="35.193" height="39.822" viewBox="0 0 35.193 39.822">
+                                    <g id="Group_10001" data-name="Group 10001" transform="translate(19863.361 12923.757)">
+                                        <path id="Path_41" data-name="Path 41" d="M131.078,0a10.078,10.078,0,1,0,10.078,10.078A10.089,10.089,0,0,0,131.078,0Z" transform="translate(-19976.84 -12922.957)" fill="none" stroke="#fff" stroke-width="1.6" />
+                                        <path id="Path_42" data-name="Path 42" d="M60.336,304.344A14.367,14.367,0,0,0,50.036,300H45.557a14.367,14.367,0,0,0-10.3,4.344A14.688,14.688,0,0,0,31,314.707a1.12,1.12,0,0,0,1.12,1.12H63.474a1.12,1.12,0,0,0,1.12-1.12A14.687,14.687,0,0,0,60.336,304.344Z" transform="translate(-19893.561 -13200.561)" fill="none" stroke="#fff" stroke-width="1.6" />
+                                    </g>
+                                </svg>
+                            </div>
+                            <div class="txt">
+                                <h4>Welcome<br /> John Doe</h4>
+                            </div>
                         </div>
-                        <div class="txt">
-                            <h4>Welcome<br /> John Doe</h4>
+                    </a>
+                    <a href="cart.php">
+                        <div class="cart-item">
+                            <div class="icon">
+                                <img src="img/cart.webp" alt="" class="img-fluid">
+                                <span class="dot"></span>
+                            </div>
+                            <div class="txt">
+                                <h4>£ 230.05</h4>
+                            </div>
                         </div>
-                    </div>
-                    <div class="cart-item">
-                        <div class="icon">
-                            <img src="img/cart.webp" alt="" class="img-fluid">
-                            <span class="dot"></span>
-                        </div>
-                        <div class="txt">
-                            <h4>£ 230.05</h4>
-                        </div>
-                    </div>
+                    </a>
                 </div>
             </div>
         </div>
@@ -62,22 +66,22 @@
     <div class="navbar-menu">
         <ul class="menus">
             <li class="menu-items">
-                <a href="#" class="menu-links">Home</a>
+                <a href="index.php" class="menu-links">Home</a>
             </li>
             <li class="menu-items">
-                <a href="#" class="menu-links">About us</a>
+                <a href="about.php" class="menu-links">About us</a>
             </li>
             <li class="menu-items">
                 <a href="shop.php" class="menu-links">Products</a>
             </li>
             <li class="menu-items">
-                <a href="#" class="menu-links">Gift Cards</a>
+                <a href="gift.php" class="menu-links">Gift Cards</a>
             </li>
             <li class="menu-items">
                 <a href="contact.php" class="menu-links">Contact us</a>
             </li>
             <li class="menu-items">
-                <a href="#" class="menu-links">Education</a>
+                <a href="education.php" class="menu-links">Education</a>
             </li>
             <li class="menu-items">
                 <a href="signin.php" class="menu-links">Login</a>

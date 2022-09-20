@@ -18,6 +18,9 @@
 
 <!-- Thank You Sec Start Here -->
 <section class="thank-you">
+    <div class="before">
+        <figure><img src="img/lock.webp" alt="" class="img-fluid"></figure>
+    </div>
     <div class="container">
         <div class="row">
             <div class="col-lg-3"></div>
@@ -187,11 +190,14 @@
                     </div>
                 </div>
                 <div class="button-group">
-                    <button class="btn">CONTINUE SHOPPING </button>
+                    <button class="btn" onclick="location.href='shop.php'">CONTINUE SHOPPING </button>
                 </div>
             </div>
             <div class="col-lg-3"></div>
         </div>
+    </div>
+    <div class="after">
+        <figure><img src="img/ball.webp" alt="" class="img-fluid"></figure>
     </div>
 </section>
 <!-- Thank You Sec End Here -->

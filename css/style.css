@@ -98,6 +98,9 @@ figure {
 	align-items: center;
 	justify-content: space-between;
 }
+#headerTop .top-bar .right-side a {
+	text-decoration: none;
+}
 #headerTop .top-bar .right-side .profile-box {
 	display: flex;
 	align-items: center;

@@ -158,11 +158,11 @@
         </div>
         <div class="button-group">
             <div class="left-side">
-                <button class="btn shopping">Continue Shopping</button>
-                <button class="btn update">Continue Shopping</button>
+                <button class="btn shopping" onclick="location.href='shop.php'">Continue Shopping</button>
+                <button class="btn update">Update Basket</button>
             </div>
             <div class="right-side">
-                <button class="btn checkout">Proceed To Checkout</button>
+                <button class="btn checkout" onclick="location.href='checkout.php'">Proceed To Checkout</button>
                 <p>You’ll still have a chance to review your order</p>
             </div>
         </div>

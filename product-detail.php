@@ -99,7 +99,7 @@
                         </div>
                     </div>
                     <div class="button-group">
-                        <button class="btn cart-btn"><i class="fa fa-cart-arrow-down" aria-hidden="true"></i> Add to cart</button>
+                        <button class="btn cart-btn" onclick="location.href='cart.php'"><i class="fa fa-cart-arrow-down" aria-hidden="true"></i> Add to cart</button>
                         <button class="btn wishlist-btn"><i class="fa fa-heart" aria-hidden="true"></i> Add to wishlist</button>
                     </div>
                 </div>
@@ -251,7 +251,7 @@
         </div>
         <div class="ring-slider">
             <div class="ring-box">
-                <a href="#">
+                <a href="product-detail.php">
                     <div class="ring-img">
                         <figure><img src="img/ring1.webp" alt="" class="img-fluid"></figure>
                     </div>
@@ -262,7 +262,7 @@
                 </a>
             </div>
             <div class="ring-box">
-                <a href="#">
+                <a href="product-detail.php">
                     <div class="ring-img">
                         <figure><img src="img/ring2.webp" alt="" class="img-fluid"></figure>
                     </div>
@@ -273,7 +273,7 @@
                 </a>
             </div>
             <div class="ring-box">
-                <a href="#">
+                <a href="product-detail.php">
                     <div class="ring-img">
                         <figure><img src="img/ring3.webp" alt="" class="img-fluid"></figure>
                     </div>
@@ -284,7 +284,7 @@
                 </a>
             </div>
             <div class="ring-box">
-                <a href="#">
+                <a href="product-detail.php">
                     <div class="ring-img">
                         <figure><img src="img/ring4.webp" alt="" class="img-fluid"></figure>
                     </div>
@@ -295,7 +295,7 @@
                 </a>
             </div>
             <div class="ring-box">
-                <a href="#">
+                <a href="product-detail.php">
                     <div class="ring-img">
                         <figure><img src="img/ring5.webp" alt="" class="img-fluid"></figure>
                     </div>
@@ -306,7 +306,7 @@
                 </a>
             </div>
             <div class="ring-box">
-                <a href="#">
+                <a href="product-detail.php">
                     <div class="ring-img">
                         <figure><img src="img/ring1.webp" alt="" class="img-fluid"></figure>
                     </div>
@@ -317,7 +317,7 @@
                 </a>
             </div>
             <div class="ring-box">
-                <a href="#">
+                <a href="product-detail.php">
                     <div class="ring-img">
                         <figure><img src="img/ring2.webp" alt="" class="img-fluid"></figure>
                     </div>
@@ -328,7 +328,7 @@
                 </a>
             </div>
             <div class="ring-box">
-                <a href="#">
+                <a href="product-detail.php">
                     <div class="ring-img">
                         <figure><img src="img/ring3.webp" alt="" class="img-fluid"></figure>
                     </div>
@@ -339,7 +339,7 @@
                 </a>
             </div>
             <div class="ring-box">
-                <a href="#">
+                <a href="product-detail.php">
                     <div class="ring-img">
                         <figure><img src="img/ring4.webp" alt="" class="img-fluid"></figure>
                     </div>
@@ -350,7 +350,7 @@
                 </a>
             </div>
             <div class="ring-box">
-                <a href="#">
+                <a href="product-detail.php">
                     <div class="ring-img">
                         <figure><img src="img/ring5.webp" alt="" class="img-fluid"></figure>
                     </div>

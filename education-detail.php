@@ -150,10 +150,42 @@
                                 </div>
                             </div>
                         </div>
+                        <div class="write-comment">
+                            <div class="title">
+                                <h3>Leave A Comment</h3>
+                            </div>
+                            <form action="">
+                                <div class="row">
+                                    <div class="col-lg-6">
+                                        <div class="form-group">
+                                            <input type="text" placeholder="Name" class="form-control">
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-6">
+                                        <div class="form-group">
+                                            <input type="email" placeholder="Email" class="form-control">
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-12">
+                                        <div class="form-group">
+                                            <textarea class="form-control" placeholder="Message"></textarea>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-12">
+                                        <div class="button-group">
+                                            <button class="btn">Post A Comment</button>
+                                        </div>
+                                    </div>
+                                </div>
+                            </form>
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
+    </div>
+    <div class="before">
+        <figure><img src="img/Sapphire.png" alt="" class="img-fluid"></figure>
     </div>
 </section>
 <!-- Education Sec End Here -->

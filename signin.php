@@ -30,7 +30,7 @@
             </div>
             <div class="col-lg-6">
                 <div class="form-box">
-                    <form action="">
+                    <form action="profile.php">
                         <div class="heading-wrapper">
                             <h2>Sign in to your Account</h2>
                             <p>

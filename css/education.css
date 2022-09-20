@@ -1,10 +1,19 @@
 /* Education Css Start Here */
 .eductaion_sec {
 	padding: 60px 20px;
+	position: relative;
 }
 .eductaion_sec .recent-post .title {
 	background: #c91120;
 	padding: 5px 15px;
+}
+.eductaion_sec .before {
+	position: absolute;
+	left: 0;
+	bottom: 0;
+}
+.eductaion_sec .before img {
+	width: 70%;
 }
 .eductaion_sec .recent-post .title h4 {
 	margin: 0;
@@ -188,5 +197,43 @@
 	text-decoration: none;
 	font-family: "Poppins";
 	font-weight: 500;
+}
+.write-comment {
+	padding-top: 40px;
+}
+.write-comment .title {
+	margin-bottom: 25px;
+}
+.write-comment .title h3 {
+	font-size: 30px;
+	font-weight: 800;
+	line-height: 40px;
+}
+.write-comment .form-group .form-control {
+	border: 1px solid #cfcfcf;
+	border-radius: 0;
+	padding: 12px 15px;
+	color: #000;
+	font-family: "Montserrat";
+}
+.write-comment .form-group {
+	margin-bottom: 20px;
+}
+.write-comment .form-group .form-control::placeholder {
+	font-weight: 600;
+	color: #000;
+	font-size: 17px;
+}
+.write-comment .form-group textarea {
+	height: 130px;
+	resize: none;
+}
+.write-comment .button-group button.btn {
+	background: #c91120;
+	border-radius: 4px;
+	font-size: 20px;
+	padding: 10px 20px;
+	color: #fff;
+	font-weight: 600;
 }
 /* Education Detail Css End Here */
