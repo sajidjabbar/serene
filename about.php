@@ -38,15 +38,15 @@
                 <div class="col-md-6">
                     <div class="row">
                         <div class="col-md-6 pe-2">
-                            <figure><img src="./img/about1.png" class="img-fluid" alt=""></figure>
+                            <figure><img src="./img/about1.webp" class="img-fluid" alt=""></figure>
                         </div>
                         <div class="col-md-6 ps-2">
-                            <figure><img src="./img/about2.png" class="img-fluid" alt=""></figure>
+                            <figure><img src="./img/about2.webp" class="img-fluid" alt=""></figure>
                         </div>
                     </div>
                     <div class="row pt-2 mt-1">
                         <div class="col-md-12">
-                            <figure><img src="./img/about3.png" class="img-fluid" alt=""></figure>
+                            <figure><img src="./img/about3.webp" class="img-fluid" alt=""></figure>
                         </div>
                     </div>
                 </div>
@@ -105,7 +105,7 @@
             <div class="row">
                 <div class="col-md-6">
                     <figure>
-                        <img src="img/about4.png" class="img-fluid" alt="">
+                        <img src="img/about4.webp" class="img-fluid" alt="">
                     </figure>
                 </div>
                 <div class="col-md-6">
@@ -167,44 +167,44 @@
                 <div class="row">
                     <div class="col-md-7 pe-1">
                         <figure>
-                            <img src="img/about5.png" class="img-fluid" alt="">
+                            <img src="img/about5.webp" class="img-fluid" alt="">
                         </figure>
                         <div class="row mt-2 pt-1">
                             <div class="col-md-6 pe-1">
                                 <figure>
-                                    <img src="img/abt10.png" class="img-fluid" alt="">
+                                    <img src="img/abt10.webp" class="img-fluid" alt="">
                                 </figure>
                             </div>
                             <div class="col-md-6 ps-2">
                                 <figure>
-                                    <img src="img/about8.png" class="img-fluid" alt="">
+                                    <img src="img/about8.webp" class="img-fluid" alt="">
                                 </figure>
                             </div>
                         </div>
                     </div>
                     <div class="col-md-5 ps-2">
                         <figure>
-                            <img src="img/about6.png" class="img-fluid" alt="">
+                            <img src="img/about6.webp" class="img-fluid" alt="">
                         </figure>
                         <figure class="mt-2 pt-1">
-                            <img src="img/about7.png" class="img-fluid" alt="">
+                            <img src="img/about7.webp" class="img-fluid" alt="">
                         </figure>
                     </div>
                 </div>
                 <div class="row mt-3">
                     <div class="col-md-5 pe-2">
                         <figure>
-                            <img src="img/about9.png" class="img-fluid" alt="">
+                            <img src="img/about9.webp" class="img-fluid" alt="">
                         </figure>
                     </div>
                     <div class="col-md-7 ps-0">
-                        <img src="img/about10.png" class="img-fluid" alt="">
+                        <img src="img/about10.webp" class="img-fluid" alt="">
                     </div>
                 </div>
                 <div class="row mt-3">
                     <div class="col-md-12">
                         <figure>
-                            <img src="img/about11.png" class="img-fluid" alt="">
+                            <img src="img/about11.webp" class="img-fluid" alt="">
                         </figure>
                     </div>
                 </div>

@@ -27,7 +27,7 @@
                     </div>
                     <div class="post-dv">
                         <div class="img-box">
-                            <figure><img src="img/side-block.png" alt="" class="img-fluid"></figure>
+                            <figure><img src="img/side-block.webp" alt="" class="img-fluid"></figure>
                         </div>
                         <div class="txt">
                             <h4>Lorem Ipsum</h4>
@@ -37,7 +37,7 @@
                     </div>
                     <div class="post-dv">
                         <div class="img-box">
-                            <figure><img src="img/side-block.png" alt="" class="img-fluid"></figure>
+                            <figure><img src="img/side-block.webp" alt="" class="img-fluid"></figure>
                         </div>
                         <div class="txt">
                             <h4>Lorem Ipsum</h4>
@@ -47,7 +47,7 @@
                     </div>
                     <div class="post-dv">
                         <div class="img-box">
-                            <figure><img src="img/side-block.png" alt="" class="img-fluid"></figure>
+                            <figure><img src="img/side-block.webp" alt="" class="img-fluid"></figure>
                         </div>
                         <div class="txt">
                             <h4>Lorem Ipsum</h4>
@@ -57,7 +57,7 @@
                     </div>
                     <div class="post-dv">
                         <div class="img-box">
-                            <figure><img src="img/side-block.png" alt="" class="img-fluid"></figure>
+                            <figure><img src="img/side-block.webp" alt="" class="img-fluid"></figure>
                         </div>
                         <div class="txt">
                             <h4>Lorem Ipsum</h4>
@@ -72,7 +72,7 @@
                     <div class="row">
                         <div class="col-md-4">
                             <div class="img-box">
-                                <figure><img src="img/education1.png" alt="" class="img-fluid"></figure>
+                                <figure><img src="img/education1.webp" alt="" class="img-fluid"></figure>
                             </div>
                         </div>
                         <div class="col-md-8">
@@ -96,7 +96,7 @@
                     <div class="row">
                         <div class="col-md-4">
                             <div class="img-box">
-                                <figure><img src="img/education2.png" alt="" class="img-fluid"></figure>
+                                <figure><img src="img/education2.webp" alt="" class="img-fluid"></figure>
                             </div>
                         </div>
                         <div class="col-md-8">
@@ -120,7 +120,7 @@
                     <div class="row">
                         <div class="col-md-4">
                             <div class="img-box">
-                                <figure><img src="img/education3.png" alt="" class="img-fluid"></figure>
+                                <figure><img src="img/education3.webp" alt="" class="img-fluid"></figure>
                             </div>
                         </div>
                         <div class="col-md-8">
@@ -144,7 +144,7 @@
                     <div class="row">
                         <div class="col-md-4">
                             <div class="img-box">
-                                <figure><img src="img/education4.png" alt="" class="img-fluid"></figure>
+                                <figure><img src="img/education4.webp" alt="" class="img-fluid"></figure>
                             </div>
                         </div>
                         <div class="col-md-8">
@@ -168,7 +168,7 @@
                     <div class="row">
                         <div class="col-md-4">
                             <div class="img-box">
-                                <figure><img src="img/education5.png" alt="" class="img-fluid"></figure>
+                                <figure><img src="img/education5.webp" alt="" class="img-fluid"></figure>
                             </div>
                         </div>
                         <div class="col-md-8">

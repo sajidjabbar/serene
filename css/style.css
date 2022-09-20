@@ -290,6 +290,15 @@ figure {
 	margin: 0;
 	color: #fff;
 }
+@media (max-width: 1400px) {
+	.banner_slider .slides .slide-text .inner-text h1 {
+		line-height: 55px;
+		font-size: 55px;
+	}
+	.banner_slider .slides .slide-text .button-group a {
+		padding: 10px 20px;
+	}
+}
 /* Banner Css End Here */
 
 /* Category Css Start Here */
@@ -331,6 +340,13 @@ figure {
 	right: 0;
 	top: 110px;
 	z-index: -1;
+}
+@media (max-width: 1400px) {
+	.category-sec .cat-box h3 {
+		min-height: 140px;
+		font-size: 35px;
+		line-height: 45px;
+	}
 }
 /* Category Css End Here */
 

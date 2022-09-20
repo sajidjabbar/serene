@@ -27,7 +27,7 @@
                     </div>
                     <div class="post-dv">
                         <div class="img-box">
-                            <figure><img src="img/side-block.png" alt="" class="img-fluid"></figure>
+                            <figure><img src="img/side-block.webp" alt="" class="img-fluid"></figure>
                         </div>
                         <div class="txt">
                             <h4>Lorem Ipsum</h4>
@@ -37,7 +37,7 @@
                     </div>
                     <div class="post-dv">
                         <div class="img-box">
-                            <figure><img src="img/side-block.png" alt="" class="img-fluid"></figure>
+                            <figure><img src="img/side-block.webp" alt="" class="img-fluid"></figure>
                         </div>
                         <div class="txt">
                             <h4>Lorem Ipsum</h4>
@@ -47,7 +47,7 @@
                     </div>
                     <div class="post-dv">
                         <div class="img-box">
-                            <figure><img src="img/side-block.png" alt="" class="img-fluid"></figure>
+                            <figure><img src="img/side-block.webp" alt="" class="img-fluid"></figure>
                         </div>
                         <div class="txt">
                             <h4>Lorem Ipsum</h4>
@@ -57,7 +57,7 @@
                     </div>
                     <div class="post-dv">
                         <div class="img-box">
-                            <figure><img src="img/side-block.png" alt="" class="img-fluid"></figure>
+                            <figure><img src="img/side-block.webp" alt="" class="img-fluid"></figure>
                         </div>
                         <div class="txt">
                             <h4>Lorem Ipsum</h4>
@@ -70,7 +70,7 @@
             <div class="col-lg-10">
                 <div class="post-detail">
                     <div class="post-img">
-                        <figure><img src="img/post-detail.png" alt="" class="img-fluid"></figure>
+                        <figure><img src="img/post-detail.webp" alt="" class="img-fluid"></figure>
                     </div>
                     <div class="content-wrapper">
                         <div class="date">
@@ -100,7 +100,7 @@
                             </div>
                             <div class="comment-box">
                                 <div class="review-img">
-                                    <figure><img src="img/comment1.png" alt="" class="img-fluid"></figure>
+                                    <figure><img src="img/comment1.webp" alt="" class="img-fluid"></figure>
                                 </div>
                                 <div class="content">
                                     <div class="name">
@@ -117,7 +117,7 @@
                             </div>
                             <div class="comment-box">
                                 <div class="review-img">
-                                    <figure><img src="img/comment2.png" alt="" class="img-fluid"></figure>
+                                    <figure><img src="img/comment2.webp" alt="" class="img-fluid"></figure>
                                 </div>
                                 <div class="content">
                                     <div class="name">
@@ -134,7 +134,7 @@
                             </div>
                             <div class="comment-box">
                                 <div class="review-img">
-                                    <figure><img src="img/comment3.png" alt="" class="img-fluid"></figure>
+                                    <figure><img src="img/comment3.webp" alt="" class="img-fluid"></figure>
                                 </div>
                                 <div class="content">
                                     <div class="name">
@@ -185,7 +185,7 @@
         </div>
     </div>
     <div class="before">
-        <figure><img src="img/Sapphire.png" alt="" class="img-fluid"></figure>
+        <figure><img src="img/Sapphire.webp" alt="" class="img-fluid"></figure>
     </div>
 </section>
 <!-- Education Sec End Here -->

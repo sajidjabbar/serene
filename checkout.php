@@ -168,7 +168,7 @@
                                         </div>
                                         <div class="visa-card">
                                             <div class="img-box">
-                                                <figure><img src="img/visa.png" alt="No Image Found">
+                                                <figure><img src="img/visa.webp" alt="No Image Found">
                                                 </figure>
                                             </div>
                                             <div class="input-box">
@@ -194,7 +194,7 @@
                                         </div>
                                         <div class="visa-card">
                                             <div class="img-box">
-                                                <figure><img src="img/visa.png" alt="No Image Found">
+                                                <figure><img src="img/visa.webp" alt="No Image Found">
                                                 </figure>
                                             </div>
                                             <div class="input-box">

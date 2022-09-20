@@ -1,384 +1,388 @@
 /* Universal Start Here */
 .form_start input {
-    border-radius: 5px;
-    border: 1px solid #b7b7b7;
-    padding: 12px 50px 12px 20px;
-    font-size: 16px;
-    font-family: "Montserrat";
-    background: transparent;
-    font-weight: 600;
-    width: 100%;
-    color: #000 !important;
-    outline: none;
+	border-radius: 5px;
+	border: 1px solid #b7b7b7;
+	padding: 12px 50px 12px 20px;
+	font-size: 16px;
+	font-family: "Montserrat";
+	background: transparent;
+	font-weight: 600;
+	width: 100%;
+	color: #000 !important;
+	outline: none;
 }
 
 .form_start input::placeholder {
-    color: #000;
+	color: #000;
 }
 
 .hide {
-    display: none;
+	display: none;
 }
 
 section.profile_section::before {
-    content: "";
-    display: block;
-    position: absolute;
-    width: 190px;
-    height: 208px;
-    background-image: url(../img/circle.png);
-    z-index: -6;
-    top: 26px;
-    left: 20px;
-    background-size: 100%;
+	content: "";
+	display: block;
+	position: absolute;
+	width: 190px;
+	height: 208px;
+	background-image: url(../img/circle.webp);
+	z-index: -6;
+	top: 26px;
+	left: 20px;
+	background-size: 100%;
 }
 
 section.profile_section::after {
-    content: "";
-    position: absolute;
-    display: block;
-    bottom: 95px;
-    right: 6px;
-    background-image: url(../img/bottle.png);
-    height: 154px;
-    width: 64px;
-    background-size: 100%;
+	content: "";
+	position: absolute;
+	display: block;
+	bottom: 95px;
+	right: 6px;
+	background-image: url(../img/bottle.webp);
+	height: 154px;
+	width: 64px;
+	background-size: 100%;
 }
 
 /* Universal End Here */
 /* Right Side */
 section.profile_section .all_profile .all_tabs {
-    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
-    padding: 0px 0px 34px;
-    background: #FFF;
+	box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+	padding: 0px 0px 34px;
+	background: #fff;
 }
 
 section.profile_section .all_profile .tabs_side_bar {
-    display: flex;
-    flex-direction: column;
-    padding-top: 28px;
-    border: 0px;
+	display: flex;
+	flex-direction: column;
+	padding-top: 28px;
+	border: 0px;
 }
 
 .all_profile .user_name {
-    text-align: center;
-    margin-top: 15px;
+	text-align: center;
+	margin-top: 15px;
 }
 
 .for_profile_img figure {
-    margin: auto;
-    text-align: center;
-    position: relative;
+	margin: auto;
+	text-align: center;
+	position: relative;
 }
 
 .for_profile_img figure span.add_icon {
-    position: absolute;
-    bottom: 0px;
-    right: 12%;
+	position: absolute;
+	bottom: 0px;
+	right: 12%;
 }
 
 .for_profile_img figure img {
-    max-width: 69%;
+	max-width: 69%;
 }
 
 .jobs_accept .btns {
-    display: flex;
-    gap: 11px;
-    justify-content: right;
+	display: flex;
+	gap: 11px;
+	justify-content: right;
 }
 
 .jobs_accept .btns button.btn {
-    background: #E9E9E9;
-    color: #B5B5B5;
-    font-size: 11px;
-    padding: 5px 17px;
-    font-family: "Poppins-Medium";
+	background: #e9e9e9;
+	color: #b5b5b5;
+	font-size: 11px;
+	padding: 5px 17px;
+	font-family: "Poppins-Medium";
 }
 
 section.profile_section .all_profile .tabs_side_bar .tabs_controller {
-    width: 100%;
-    display: block;
-    text-align: left;
-    font-size: 18px;
-    font-family: "Playfair Display", serif;
-    color: #030303;
-    outline: none;
-    box-shadow: none;
-    padding: 10px 16px;
-    background-color: transparent;
-    border-radius: 0px;
-    font-weight: 600;
-    border: 0;
+	width: 100%;
+	display: block;
+	text-align: left;
+	font-size: 18px;
+	font-family: "Playfair Display", serif;
+	color: #030303;
+	outline: none;
+	box-shadow: none;
+	padding: 10px 16px;
+	background-color: transparent;
+	border-radius: 0px;
+	font-weight: 600;
+	border: 0;
 }
 
 section.profile_section .all_profile .tabs_side_bar .tabs_controller.active {
-    color: #C91120;
+	color: #c91120;
 }
 
 .all_profile .user_name a {
-    color: #C91120;
-    font-size: 17px;
-    font-weight: 400;
-    font-family: "Playfair Display", serif;
+	color: #c91120;
+	font-size: 17px;
+	font-weight: 400;
+	font-family: "Playfair Display", serif;
 }
 
 .all_profile .user_name h5 {
-    color: #000000;
-    font-size: 17px;
-    margin-bottom: 0px;
+	color: #000000;
+	font-size: 17px;
+	margin-bottom: 0px;
 }
 
-section.profile_section .all_profile .tabs_side_bar li.nav-item.tabs_button_wrapper:not(:first-child) .tabs_controller {
-    border-top: 1px solid #CECECE;
+section.profile_section
+	.all_profile
+	.tabs_side_bar
+	li.nav-item.tabs_button_wrapper:not(:first-child)
+	.tabs_controller {
+	border-top: 1px solid #cecece;
 }
 
 section.profile_section .all_profile .all_tabs .for_account {
-    background: #C91120;
-    padding: 11px 20px;
+	background: #c91120;
+	padding: 11px 20px;
 }
 
 .for_account span {
-    color: #FFFFFF;
-    font-size: 18px;
+	color: #ffffff;
+	font-size: 18px;
 }
 
 section.profile_section {
-    padding: 126px 0px 93px;
-    position: relative;
+	padding: 126px 0px 93px;
+	position: relative;
 }
 
 section.profile_section .all_profile .for_profile_img {
-    padding-top: 21px;
+	padding-top: 21px;
 }
 
 /* End here */
 .basic_information .profile_box {
-    box-shadow: rgb(100 100 111 / 20%) 0px 7px 29px 0px;
-    padding: 31px 35px 31px 5%;
-    background: #FFF;
-    background-image: url(../img/middle.png);
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: 25%;
+	box-shadow: rgb(100 100 111 / 20%) 0px 7px 29px 0px;
+	padding: 31px 35px 31px 5%;
+	background: #fff;
+	background-image: url(../img/middle.webp);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: 25%;
 }
 
 .basic_information .profile_box .top_section {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
 }
 
 .basic_information .profile_box .top_section .left_side {
-    display: flex;
-    align-items: center;
-    gap: 12px;
+	display: flex;
+	align-items: center;
+	gap: 12px;
 }
 
 .basic_information .profile_box .top_section .left_side img {
-    max-width: 72px;
+	max-width: 72px;
 }
 
 .basic_information .profile_box .top_section .left_side h4 {
-    margin-bottom: 0;
+	margin-bottom: 0;
 }
 
 .basic_information .profile_box .top_section .left_side label {
-    color: #000000c4;
-    font-size: 16px;
-    font-family: "Montserrat";
+	color: #000000c4;
+	font-size: 16px;
+	font-family: "Montserrat";
 }
 
 .basic_information .profile_box .top_section .right_side span {
-    color: #C91120;
-    font-size: 18px;
-    font-family: "Montserrat";
-    text-decoration: underline;
-    cursor: pointer;
+	color: #c91120;
+	font-size: 18px;
+	font-family: "Montserrat";
+	text-decoration: underline;
+	cursor: pointer;
 }
 
 .porfile_information .single_info span.ques {
-    color: #000000;
+	color: #000000;
 }
 
 .porfile_information .single_info {
-    padding: 8px 0px;
+	padding: 8px 0px;
 }
 
 .basic_information .profile_box .porfile_information {
-    padding-top: 23px;
-    padding-bottom: 25px;
-    border-bottom: 1px solid #00000040;
+	padding-top: 23px;
+	padding-bottom: 25px;
+	border-bottom: 1px solid #00000040;
 }
 
 .porfile_information .single_info span {
-    font-size: 18px;
-    font-family: "Montserrat";
-    display: block;
+	font-size: 18px;
+	font-family: "Montserrat";
+	display: block;
 }
 
 .porfile_information .single_info span.answ {
-    color: #000000b0;
+	color: #000000b0;
 }
 
 .porfile_information .single_info span.password {
-    display: inline;
-    color: #C91120;
-    font-size: 20px;
-    margin-left: 21px;
-    cursor: pointer;
-    text-decoration: underline;
-    text-decoration-thickness: 1px;
+	display: inline;
+	color: #c91120;
+	font-size: 20px;
+	margin-left: 21px;
+	cursor: pointer;
+	text-decoration: underline;
+	text-decoration-thickness: 1px;
 }
 
 .home_address_part .top_text {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    margin: 12px 0px 19px;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	margin: 12px 0px 19px;
 }
 
 .home_address_part .top_text h4 {
-    margin-bottom: 0px;
+	margin-bottom: 0px;
 }
 
 .home_address_part p {
-    font-size: 20px;
-    font-family: "Montserrat";
+	font-size: 20px;
+	font-family: "Montserrat";
 }
 
 .home_address_part .top_text .right_addres span {
-    color: #C91120;
-    font-size: 18px;
-    font-family: "Montserrat";
-    text-decoration: underline;
-    cursor: pointer;
+	color: #c91120;
+	font-size: 18px;
+	font-family: "Montserrat";
+	text-decoration: underline;
+	cursor: pointer;
 }
 
 .complete_address .address span.quest {
-    font-family: "Montserrat";
-    font-weight: 600;
-    padding-right: 17px;
+	font-family: "Montserrat";
+	font-weight: 600;
+	padding-right: 17px;
 }
 
 .complete_address .address span.answer {
-    font-family: "Montserrat";
-    font-weight: 400;
-    padding-right: 17px;
+	font-family: "Montserrat";
+	font-weight: 400;
+	padding-right: 17px;
 }
 
 .basic_information .home_address_part {
-    padding-bottom: 23px;
+	padding-bottom: 23px;
 }
 
 .al_tabs_start .basic_information {
-    padding-left: 4%;
+	padding-left: 4%;
 }
 
 .al_tabs_start .basic_information .main_heading h3 {
-    line-height: 37px;
-    margin-bottom: 25px;
+	line-height: 37px;
+	margin-bottom: 25px;
 }
 
 @media (max-width: 991px) {
-    .porfile_information .single_info span {
-        font-size: 15px;
-    }
+	.porfile_information .single_info span {
+		font-size: 15px;
+	}
 
-    .porfile_information .single_info span.password {
-        font-size: 16px;
-    }
+	.porfile_information .single_info span.password {
+		font-size: 16px;
+	}
 
-    .al_tabs_start .basic_information {
-        padding-left: 0;
-        padding-top: 58px;
-    }
+	.al_tabs_start .basic_information {
+		padding-left: 0;
+		padding-top: 58px;
+	}
 
-    .home_address_part p {
-        font-size: 17px;
-    }
+	.home_address_part p {
+		font-size: 17px;
+	}
 
-    .home_address_part .top_text h4 {
-        font-size: 17px;
-    }
+	.home_address_part .top_text h4 {
+		font-size: 17px;
+	}
 
-    .home_address_part .top_text .right_addres span {
-        font-size: 16px;
-    }
+	.home_address_part .top_text .right_addres span {
+		font-size: 16px;
+	}
 
-    .complete_address .address span.quest {
-        font-size: 15px;
-    }
+	.complete_address .address span.quest {
+		font-size: 15px;
+	}
 
-    .complete_address .address span.answer {
-        font-size: 15px;
-        display: block;
-    }
+	.complete_address .address span.answer {
+		font-size: 15px;
+		display: block;
+	}
 
-    .al_tabs_start .basic_information .main_heading h3 {
-        font-size: 38px;
-        margin-bottom: 19px;
-    }
+	.al_tabs_start .basic_information .main_heading h3 {
+		font-size: 38px;
+		margin-bottom: 19px;
+	}
 }
 
 @media (max-width: 576px) {
-    .porfile_information .single_info span {
-        font-size: 12px;
-    }
+	.porfile_information .single_info span {
+		font-size: 12px;
+	}
 
-    .al_tabs_start .basic_information .main_heading h3 {
-        font-size: 33px;
-    }
+	.al_tabs_start .basic_information .main_heading h3 {
+		font-size: 33px;
+	}
 
-    .porfile_information .single_info span.password {
-        font-size: 13px;
-    }
+	.porfile_information .single_info span.password {
+		font-size: 13px;
+	}
 
-    .home_address_part p {
-        font-size: 14px;
-    }
+	.home_address_part p {
+		font-size: 14px;
+	}
 
-    .home_address_part .top_text h4 {
-        font-size: 14px;
-    }
+	.home_address_part .top_text h4 {
+		font-size: 14px;
+	}
 
-    .home_address_part .top_text .right_addres span {
-        font-size: 13px;
-    }
+	.home_address_part .top_text .right_addres span {
+		font-size: 13px;
+	}
 
-    .complete_address .address span.quest {
-        font-size: 12px;
-    }
+	.complete_address .address span.quest {
+		font-size: 12px;
+	}
 
-    .complete_address .address span.answer {
-        font-size: 12px;
-        display: block;
-    }
+	.complete_address .address span.answer {
+		font-size: 12px;
+		display: block;
+	}
 
-    .basic_information .profile_box .top_section {
-        display: block;
-    }
+	.basic_information .profile_box .top_section {
+		display: block;
+	}
 
-    .basic_information .profile_box .top_section .right_side {
-        text-align: end;
-    }
+	.basic_information .profile_box .top_section .right_side {
+		text-align: end;
+	}
 
-    .basic_information .profile_box .top_section .left_side label {
-        font-size: 13px;
-    }
+	.basic_information .profile_box .top_section .left_side label {
+		font-size: 13px;
+	}
 
-    .basic_information .profile_box .top_section .left_side h4 {
-        font-size: 18px;
-        margin-bottom: -7px;
-    }
+	.basic_information .profile_box .top_section .left_side h4 {
+		font-size: 18px;
+		margin-bottom: -7px;
+	}
 
-    .basic_information .profile_box .top_section .right_side span {
-        font-size: 14px;
-    }
+	.basic_information .profile_box .top_section .right_side span {
+		font-size: 14px;
+	}
 
-    .al_tabs_start .basic_information .main_heading h3 {
-        font-size: 29px;
-        margin-bottom: 19px;
-    }
+	.al_tabs_start .basic_information .main_heading h3 {
+		font-size: 29px;
+		margin-bottom: 19px;
+	}
 }
 
 /* Basic Information End here */
@@ -386,135 +390,182 @@ section.profile_section .all_profile .for_profile_img {
 section.profile_section .update_profile,
 section.profile_section .change_address,
 section.profile_section .change_password {
-    box-shadow: rgb(100 100 111 / 20%) 0px 7px 29px 0px;
-    padding: 35px 4% 35px 4%;
+	box-shadow: rgb(100 100 111 / 20%) 0px 7px 29px 0px;
+	padding: 35px 4% 35px 4%;
 }
 
 section.profile_section .update_profile .top_change_image {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
 }
 
 section.profile_section .update_profile .top_change_image .left_side img {
-    max-width: 92px;
+	max-width: 92px;
 }
 
 section.profile_section .update_profile .top_change_image .left_side {
-    display: flex;
-    gap: 28px;
-    align-items: end;
+	display: flex;
+	gap: 28px;
+	align-items: end;
 }
 
-section.profile_section .update_profile .top_change_image .left_side .text span {
-    display: block;
-    font-family: 'Montserrat';
-    font-size: 13px;
-    line-height: 24px;
-    font-weight: 600;
-    color: #000000;
+section.profile_section
+	.update_profile
+	.top_change_image
+	.left_side
+	.text
+	span {
+	display: block;
+	font-family: "Montserrat";
+	font-size: 13px;
+	line-height: 24px;
+	font-weight: 600;
+	color: #000000;
 }
 
-section.profile_section .update_profile .top_change_image .left_side .text label span {
-    border-radius: 4px;
-    font-family: 'Playfair Display';
-    font-size: 19px;
-    font-weight: 600;
-    padding: 10px 13px;
-    background: #c91120;
-    color: #FFFFFF;
-    margin-top: 9px;
+section.profile_section
+	.update_profile
+	.top_change_image
+	.left_side
+	.text
+	label
+	span {
+	border-radius: 4px;
+	font-family: "Playfair Display";
+	font-size: 19px;
+	font-weight: 600;
+	padding: 10px 13px;
+	background: #c91120;
+	color: #ffffff;
+	margin-top: 9px;
 }
 
-section.profile_section .update_profile .top_change_image .right_side.text-end h4 {
-    font-size: 18px;
+section.profile_section
+	.update_profile
+	.top_change_image
+	.right_side.text-end
+	h4 {
+	font-size: 18px;
 }
 
 section.profile_section .update_profile .form_start,
 section.profile_section .change_address .form_start,
 section.profile_section .change_password .form_start {
-    margin-top: 20px;
+	margin-top: 20px;
 }
 
 section.profile_section .update_profile .form_start .form_row,
 section.profile_section .change_address .form_start .form_row,
 section.profile_section .change_password .form_start .form_row {
-    text-align: end;
+	text-align: end;
 }
 
 section.profile_section .update_profile .form_start .form_row button.with_back,
 section.profile_section .change_address .form_start .form_row button.with_back,
-section.profile_section .change_password .form_start .form_row button.with_back {
-    border-radius: 3px;
-    font-family: 'Playfair Display';
-    font-size: 19px;
-    font-weight: 600;
-    padding: 4px 13px;
-    background: #c91120;
-    color: #FFFFFF;
-    margin-top: 9px;
-    border: 1px solid transparent;
+section.profile_section
+	.change_password
+	.form_start
+	.form_row
+	button.with_back {
+	border-radius: 3px;
+	font-family: "Playfair Display";
+	font-size: 19px;
+	font-weight: 600;
+	padding: 4px 13px;
+	background: #c91120;
+	color: #ffffff;
+	margin-top: 9px;
+	border: 1px solid transparent;
 }
 
-section.profile_section .update_profile .form_start .form_row button.border_transparent,
-section.profile_section .change_address .form_start .form_row button.border_transparent,
-section.profile_section .change_password .form_start .form_row button.border_transparent {
-    border-radius: 3px;
-    font-family: 'Playfair Display';
-    font-size: 19px;
-    font-weight: 600;
-    padding: 4px 13px;
-    color: #C91120;
-    margin-top: 9px;
-    background: transparent;
-    border: 1px solid #C91120;
+section.profile_section
+	.update_profile
+	.form_start
+	.form_row
+	button.border_transparent,
+section.profile_section
+	.change_address
+	.form_start
+	.form_row
+	button.border_transparent,
+section.profile_section
+	.change_password
+	.form_start
+	.form_row
+	button.border_transparent {
+	border-radius: 3px;
+	font-family: "Playfair Display";
+	font-size: 19px;
+	font-weight: 600;
+	padding: 4px 13px;
+	color: #c91120;
+	margin-top: 9px;
+	background: transparent;
+	border: 1px solid #c91120;
 }
 
 @media (max-width: 991px) {
-    section.profile_section .update_profile .toop_heading h3 {
-        font-size: 33px;
-    }
+	section.profile_section .update_profile .toop_heading h3 {
+		font-size: 33px;
+	}
 
-    section.profile_section .update_profile .top_change_image .left_side .text label span {
-        padding: 7px 11px;
-        font-size: 16px;
-    }
+	section.profile_section
+		.update_profile
+		.top_change_image
+		.left_side
+		.text
+		label
+		span {
+		padding: 7px 11px;
+		font-size: 16px;
+	}
 
-    section.profile_section .update_profile .top_change_image .left_side img {
-        max-width: 76px;
-    }
+	section.profile_section .update_profile .top_change_image .left_side img {
+		max-width: 76px;
+	}
 
-    section.profile_section .update_profile .top_change_image .left_side {
-        align-items: center;
-    }
+	section.profile_section .update_profile .top_change_image .left_side {
+		align-items: center;
+	}
 }
 
 @media (max-width: 576px) {
-    section.profile_section .update_profile .toop_heading h3 {
-        font-size: 25px;
-    }
+	section.profile_section .update_profile .toop_heading h3 {
+		font-size: 25px;
+	}
 
+	section.profile_section .update_profile .top_change_image .left_side img {
+		max-width: 60px;
+	}
 
-    section.profile_section .update_profile .top_change_image .left_side img {
-        max-width: 60px;
-    }
+	section.profile_section .update_profile .top_change_image .left_side {
+		align-items: center;
+		gap: 12px;
+	}
 
-    section.profile_section .update_profile .top_change_image .left_side {
-        align-items: center;
-        gap: 12px;
-    }
+	section.profile_section .update_profile .top_change_image {
+		display: unset;
+	}
 
-    section.profile_section .update_profile .top_change_image {
-        display: unset;
-    }
+	section.profile_section
+		.update_profile
+		.top_change_image
+		.left_side
+		.text
+		span {
+		font-size: 11px;
+	}
 
-    section.profile_section .update_profile .top_change_image .left_side .text span {
-        font-size: 11px;
-    }
-
-    section.profile_section .update_profile .top_change_image .left_side .text label span {
-        font-size: 13px;
-    }
+	section.profile_section
+		.update_profile
+		.top_change_image
+		.left_side
+		.text
+		label
+		span {
+		font-size: 13px;
+	}
 }
 
 /* Update Profile End here */
@@ -522,281 +573,435 @@ section.profile_section .change_password .form_start .form_row button.border_tra
 /* ==== Profile Css End Here ==== */
 /* Order Css Start Here */
 section.profile_section .my_orders_start_here .order_table_start {
-    padding-left: 4%;
+	padding-left: 4%;
 }
 
-section.profile_section .my_orders_start_here .order_table_start .table_start thead tr th {
-    vertical-align: middle;
-    color: #2A263D;
-    font-size: 18px;
-    font-family: 'Montserrat';
-    text-align: center;
-    border-bottom: 0px;
+section.profile_section
+	.my_orders_start_here
+	.order_table_start
+	.table_start
+	thead
+	tr
+	th {
+	vertical-align: middle;
+	color: #2a263d;
+	font-size: 18px;
+	font-family: "Montserrat";
+	text-align: center;
+	border-bottom: 0px;
 }
 
-section.profile_section .my_orders_start_here .order_table_start .table_start tbody tr td {
-    text-align: center;
-    vertical-align: middle;
+section.profile_section
+	.my_orders_start_here
+	.order_table_start
+	.table_start
+	tbody
+	tr
+	td {
+	text-align: center;
+	vertical-align: middle;
 }
 
-section.profile_section .my_orders_start_here .order_table_start .table_start tbody tr {
-    outline: 1px solid #00000045;
-    border-style: hidden;
+section.profile_section
+	.my_orders_start_here
+	.order_table_start
+	.table_start
+	tbody
+	tr {
+	outline: 1px solid #00000045;
+	border-style: hidden;
 }
 
-section.profile_section .my_orders_start_here .order_table_start .table_start table {
-    border-collapse: initial;
-    border-spacing: 0px 13px;
+section.profile_section
+	.my_orders_start_here
+	.order_table_start
+	.table_start
+	table {
+	border-collapse: initial;
+	border-spacing: 0px 13px;
 }
 
-section.profile_section .my_orders_start_here .order_table_start .table_start thead tr th.order_no {
-    width: 16%;
+section.profile_section
+	.my_orders_start_here
+	.order_table_start
+	.table_start
+	thead
+	tr
+	th.order_no {
+	width: 16%;
 }
 
-section.profile_section .my_orders_start_here .order_table_start .table_start thead tr th.order_date {
-    width: 19%;
+section.profile_section
+	.my_orders_start_here
+	.order_table_start
+	.table_start
+	thead
+	tr
+	th.order_date {
+	width: 19%;
 }
 
-section.profile_section .my_orders_start_here .order_table_start .table_start thead tr th.order_status {
-    width: 11%;
+section.profile_section
+	.my_orders_start_here
+	.order_table_start
+	.table_start
+	thead
+	tr
+	th.order_status {
+	width: 11%;
 }
 
-section.profile_section .my_orders_start_here .order_table_start .table_start thead tr th.payment_status {
-    width: 27%;
+section.profile_section
+	.my_orders_start_here
+	.order_table_start
+	.table_start
+	thead
+	tr
+	th.payment_status {
+	width: 27%;
 }
 
-section.profile_section .my_orders_start_here .order_table_start .table_start thead tr th.total {
-    width: 11%;
+section.profile_section
+	.my_orders_start_here
+	.order_table_start
+	.table_start
+	thead
+	tr
+	th.total {
+	width: 11%;
 }
 
-section.profile_section .my_orders_start_here .order_table_start .table_start thead tr {
-    border: 1px solid transparent;
-    border-style: unset;
+section.profile_section
+	.my_orders_start_here
+	.order_table_start
+	.table_start
+	thead
+	tr {
+	border: 1px solid transparent;
+	border-style: unset;
 }
 
-section.profile_section .my_orders_start_here .order_table_start .table_start tbody tr td {
-    font-size: 17px;
-    font-family: 'Montserrat';
-    font-weight: 400;
-    padding: 14px 0px 12px;
-    text-align: center;
+section.profile_section
+	.my_orders_start_here
+	.order_table_start
+	.table_start
+	tbody
+	tr
+	td {
+	font-size: 17px;
+	font-family: "Montserrat";
+	font-weight: 400;
+	padding: 14px 0px 12px;
+	text-align: center;
 }
 
-section.profile_section .my_orders_start_here .order_table_start .table_start tbody tr td span.status {
-    background-image: url(../img/tick.png);
-    background-repeat: no-repeat;
-    width: 100%;
-    background-position: center right 34%;
-    display: block;
-    background-size: 16px;
-    color: #00BC26;
+section.profile_section
+	.my_orders_start_here
+	.order_table_start
+	.table_start
+	tbody
+	tr
+	td
+	span.status {
+	background-image: url(../img/tick.webp);
+	background-repeat: no-repeat;
+	width: 100%;
+	background-position: center right 34%;
+	display: block;
+	background-size: 16px;
+	color: #00bc26;
 }
 
-section.profile_section .my_orders_start_here .order_table_start .table_start tbody tr td.no_6 {
-    font-size: 16px;
-    color: #C91120;
-    text-decoration: underline;
-    font-weight: 600;
-    cursor: pointer;
+section.profile_section
+	.my_orders_start_here
+	.order_table_start
+	.table_start
+	tbody
+	tr
+	td.no_6 {
+	font-size: 16px;
+	color: #c91120;
+	text-decoration: underline;
+	font-weight: 600;
+	cursor: pointer;
 }
 
 /* Pagination Css Start Here */
 .the_pagination ul.pagination {
-    gap: 12px;
+	gap: 12px;
 }
 
 .the_pagination ul.pagination a.page-link {
-    border-radius: 0;
-    color: #C91120;
-    font-size: 17px;
-    padding: 5px 13px 4px;
-    font-size: 16px;
-    font-family: 'Montserrat';
-    font-weight: 600;
-    border: 1px solid #C91120;
+	border-radius: 0;
+	color: #c91120;
+	font-size: 17px;
+	padding: 5px 13px 4px;
+	font-size: 16px;
+	font-family: "Montserrat";
+	font-weight: 600;
+	border: 1px solid #c91120;
 }
 
 .the_pagination ul.pagination a.page-link i {
-    font-size: 20px;
+	font-size: 20px;
 }
 
 .the_pagination ul.pagination .page-item.active .page-link {
-    background: #C91120;
-    color: #FFF;
+	background: #c91120;
+	color: #fff;
 }
 
 @media (max-width: 1200px) {
-    section.profile_section .my_orders_start_here .order_table_start .table_start tbody tr td {
-        font-size: 12px;
-    }
+	section.profile_section
+		.my_orders_start_here
+		.order_table_start
+		.table_start
+		tbody
+		tr
+		td {
+		font-size: 12px;
+	}
 
-    section.profile_section .my_orders_start_here .order_table_start .table_start tbody tr td.no_6 {
-        font-size: 13px;
-    }
-
+	section.profile_section
+		.my_orders_start_here
+		.order_table_start
+		.table_start
+		tbody
+		tr
+		td.no_6 {
+		font-size: 13px;
+	}
 }
 
 @media (max-width: 991px) {
-    section.profile_section .my_orders_start_here .order_table_start .table_start table {
-        width: 905px;
-    }
+	section.profile_section
+		.my_orders_start_here
+		.order_table_start
+		.table_start
+		table {
+		width: 905px;
+	}
 
-    section.profile_section .my_orders_start_here .order_table_start .table_start {
-        width: 100%;
-        overflow-x: scroll;
-    }
+	section.profile_section
+		.my_orders_start_here
+		.order_table_start
+		.table_start {
+		width: 100%;
+		overflow-x: scroll;
+	}
 
-    section.profile_section .my_orders_start_here .order_table_start .table_start::-webkit-scrollbar {
-        display: none;
-    }
+	section.profile_section
+		.my_orders_start_here
+		.order_table_start
+		.table_start::-webkit-scrollbar {
+		display: none;
+	}
 
-    section.profile_section .my_orders_start_here .order_table_start .table_start tbody tr td {
-        font-size: 14px;
-    }
+	section.profile_section
+		.my_orders_start_here
+		.order_table_start
+		.table_start
+		tbody
+		tr
+		td {
+		font-size: 14px;
+	}
 
-    section.profile_section .my_orders_start_here .order_table_start .table_start tbody tr td.no_6 {
-        font-size: 15px;
-    }
+	section.profile_section
+		.my_orders_start_here
+		.order_table_start
+		.table_start
+		tbody
+		tr
+		td.no_6 {
+		font-size: 15px;
+	}
 
-    section.profile_section .my_orders_start_here .order_table_start .table_start tbody tr td span.status {
-        background-size: 17px;
-    }
+	section.profile_section
+		.my_orders_start_here
+		.order_table_start
+		.table_start
+		tbody
+		tr
+		td
+		span.status {
+		background-size: 17px;
+	}
 }
 
 @media (max-width: 768px) {
-    section.profile_section .my_orders_start_here .order_table_start .table_start table {
-        width: 780px;
-    }
+	section.profile_section
+		.my_orders_start_here
+		.order_table_start
+		.table_start
+		table {
+		width: 780px;
+	}
 }
 
 @media (max-width: 576px) {
-    section.profile_section .my_orders_start_here .order_table_start .table_start tbody tr td {
-        font-size: 12px;
-    }
+	section.profile_section
+		.my_orders_start_here
+		.order_table_start
+		.table_start
+		tbody
+		tr
+		td {
+		font-size: 12px;
+	}
 
-    section.profile_section .my_orders_start_here .order_table_start .table_start tbody tr td.no_6 {
-        font-size: 13px;
-    }
+	section.profile_section
+		.my_orders_start_here
+		.order_table_start
+		.table_start
+		tbody
+		tr
+		td.no_6 {
+		font-size: 13px;
+	}
 
-    section.profile_section .my_orders_start_here .order_table_start .table_start tbody tr td span.status {
-        background-size: 14px;
-    }
+	section.profile_section
+		.my_orders_start_here
+		.order_table_start
+		.table_start
+		tbody
+		tr
+		td
+		span.status {
+		background-size: 14px;
+	}
 }
 
 /* Order Details Start Here */
 .my_orders_start_here .order_detail_page {
-    padding-left: 4%;
+	padding-left: 4%;
 }
 
 .my_orders_start_here .order_detail_page .top_heading h4 {
-    font-family: 'Montserrat';
-    color: #2A263D;
-    font-weight: 600;
-    font-size: 19px;
+	font-family: "Montserrat";
+	color: #2a263d;
+	font-weight: 600;
+	font-size: 19px;
 }
 
 .my_orders_start_here .order_detail_page .detail_box {
-    padding: 14px 26px;
-    border: 1px solid #00000054;
-    margin-top: 28px;
+	padding: 14px 26px;
+	border: 1px solid #00000054;
+	margin-top: 28px;
 }
 
 .my_orders_start_here .order_detail_page .detail_box .single_row {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 13px 0px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 13px 0px;
 }
 
-.my_orders_start_here .order_detail_page .detail_box .single_row:not(:last-child) {
-    border-bottom: 1px solid #BABABA;
+.my_orders_start_here
+	.order_detail_page
+	.detail_box
+	.single_row:not(:last-child) {
+	border-bottom: 1px solid #bababa;
 }
 
 .my_orders_start_here .order_detail_page .detail_box .single_row span.question {
-    font-size: 16px;
-    font-family: 'montserrat';
-    font-weight: 400;
-    color: #000;
-    display: block;
+	font-size: 16px;
+	font-family: "montserrat";
+	font-weight: 400;
+	color: #000;
+	display: block;
 }
 
 .my_orders_start_here .order_detail_page .detail_box .single_row span.answer {
-    color: #282828ba;
-    font-size: 20px;
-    font-family: 'montserrat';
-    display: block;
+	color: #282828ba;
+	font-size: 20px;
+	font-family: "montserrat";
+	display: block;
 }
 
-.my_orders_start_here .order_detail_page .detail_box .single_row span.answer img {
-    max-width: 31px;
+.my_orders_start_here
+	.order_detail_page
+	.detail_box
+	.single_row
+	span.answer
+	img {
+	max-width: 31px;
 }
 
 .book_btns .form_row {
-    text-align: end;
+	text-align: end;
 }
 
-
 .book_btns .form_row button.with_back {
-    border-radius: 3px;
-    font-family: 'Playfair Display';
-    font-size: 19px;
-    font-weight: 600;
-    padding: 4px 13px;
-    background: #c91120;
-    color: #FFFFFF;
-    margin-top: 9px;
-    border: 1px solid transparent;
+	border-radius: 3px;
+	font-family: "Playfair Display";
+	font-size: 19px;
+	font-weight: 600;
+	padding: 4px 13px;
+	background: #c91120;
+	color: #ffffff;
+	margin-top: 9px;
+	border: 1px solid transparent;
 }
 
 .book_btns .form_row button.border_transparent {
-    border-radius: 3px;
-    font-family: 'Playfair Display';
-    font-size: 19px;
-    font-weight: 600;
-    padding: 4px 13px;
-    color: #C91120;
-    margin-top: 9px;
-    background: transparent;
-    border: 1px solid #C91120;
+	border-radius: 3px;
+	font-family: "Playfair Display";
+	font-size: 19px;
+	font-weight: 600;
+	padding: 4px 13px;
+	color: #c91120;
+	margin-top: 9px;
+	background: transparent;
+	border: 1px solid #c91120;
 }
 
 @media (max-width: 991px) {
-    section.profile_section .my_orders_start_here {
-        padding-top: 36px;
-    }
+	section.profile_section .my_orders_start_here {
+		padding-top: 36px;
+	}
 }
 
 @media (max-width: 576px) {
-    .my_orders_start_here .order_detail_page .top_heading h4 {
-        font-size: 14px;
-    }
+	.my_orders_start_here .order_detail_page .top_heading h4 {
+		font-size: 14px;
+	}
 
-    .my_orders_start_here .order_detail_page .top_heading h3 {
-        font-size: 33px;
-        margin-bottom: 0px;
-    }
+	.my_orders_start_here .order_detail_page .top_heading h3 {
+		font-size: 33px;
+		margin-bottom: 0px;
+	}
 
-    .my_orders_start_here .order_detail_page {
-        padding-left: 0px;
-    }
+	.my_orders_start_here .order_detail_page {
+		padding-left: 0px;
+	}
 
-    .my_orders_start_here .order_detail_page .detail_box .single_row span.question {
-        font-size: 13px;
-    }
+	.my_orders_start_here
+		.order_detail_page
+		.detail_box
+		.single_row
+		span.question {
+		font-size: 13px;
+	}
 
-    .my_orders_start_here .order_detail_page .detail_box .single_row span.answer {
-        font-size: 14px;
-    }
+	.my_orders_start_here .order_detail_page .detail_box .single_row span.answer {
+		font-size: 14px;
+	}
 
-    .my_orders_start_here .order_detail_page .detail_box .single_row span.answer img {
-        max-width: 25px;
-    }
+	.my_orders_start_here
+		.order_detail_page
+		.detail_box
+		.single_row
+		span.answer
+		img {
+		max-width: 25px;
+	}
 
-    .book_btns .form_row button.with_back {
-        font-size: 15px;
-    }
+	.book_btns .form_row button.with_back {
+		font-size: 15px;
+	}
 
-    .book_btns .form_row button.border_transparent {
-        font-size: 15px;
-    }
+	.book_btns .form_row button.border_transparent {
+		font-size: 15px;
+	}
 }

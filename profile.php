@@ -25,7 +25,7 @@
                             </div>
                             <div class="for_profile_img">
                                 <figure>
-                                    <img src="img/profile.png" alt="">
+                                    <img src="img/profile.webp" alt="">
                                 </figure>
                             </div>
                             <div class="user_name">
@@ -61,7 +61,7 @@
                                             <div class="top_section">
                                                 <div class="left_side">
                                                     <figure>
-                                                        <img src="img/profile_2.png" alt="">
+                                                        <img src="img/profile_2.webp" alt="">
                                                     </figure>
                                                     <div class="upload_option">
                                                         <h4>Photo</h4>
@@ -246,7 +246,7 @@
                                                 <div class="detail_box">
                                                     <div class="single_row">
                                                         <span class="question">Product :</span>
-                                                        <span class="answer"><img src="img/order.png" alt=""></span>
+                                                        <span class="answer"><img src="img/order.webp" alt=""></span>
                                                     </div>
                                                     <div class="single_row">
                                                         <span class="question">Product Name :</span>
@@ -292,7 +292,7 @@
                 <form action="" method="post">
                     <div class="top_change_image">
                         <div class="left_side">
-                            <img src="img/profile.png" alt="">
+                            <img src="img/profile.webp" alt="">
                             <div class="text">
                                 <span>Jpeg or Png maximum size (5mb)</span>
                                 <label for="change_image">
@@ -303,7 +303,7 @@
                         </div>
                         <div class="right_side text-end">
                             <h4>Processing</h4>
-                            <img src="img/loader.png" alt="">
+                            <img src="img/loader.webp" alt="">
                         </div>
                     </div>
                     <div class="form_start">

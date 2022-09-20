@@ -23,7 +23,7 @@
     </div>
     <div class="container-fluid">
         <div class="cart-img">
-            <figure><img src="img/cart-img.png" alt="" class="img-fluid"></figure>
+            <figure><img src="img/cart-img.webp" alt="" class="img-fluid"></figure>
         </div>
         <div class="basket-table table-responsive">
             <table class="table">
@@ -41,7 +41,7 @@
                     <tr>
                         <td class="delete">
                             <button>
-                                <img src="img/delete.png" alt="" class="img-fluid">
+                                <img src="img/delete.webp" alt="" class="img-fluid">
                             </button>
                         </td>
                         <td class="product">
@@ -59,7 +59,7 @@
                     <tr>
                         <td class="delete">
                             <button>
-                                <img src="img/delete.png" alt="" class="img-fluid">
+                                <img src="img/delete.webp" alt="" class="img-fluid">
                             </button>
                         </td>
                         <td class="product">
@@ -77,7 +77,7 @@
                     <tr>
                         <td class="delete">
                             <button>
-                                <img src="img/delete.png" alt="" class="img-fluid">
+                                <img src="img/delete.webp" alt="" class="img-fluid">
                             </button>
                         </td>
                         <td class="product">
@@ -95,7 +95,7 @@
                     <tr>
                         <td class="delete">
                             <button>
-                                <img src="img/delete.png" alt="" class="img-fluid">
+                                <img src="img/delete.webp" alt="" class="img-fluid">
                             </button>
                         </td>
                         <td class="product">
@@ -113,7 +113,7 @@
                     <tr>
                         <td class="delete">
                             <button>
-                                <img src="img/delete.png" alt="" class="img-fluid">
+                                <img src="img/delete.webp" alt="" class="img-fluid">
                             </button>
                         </td>
                         <td class="product">

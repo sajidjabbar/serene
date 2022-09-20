@@ -25,22 +25,22 @@
                     <div class="row">
                         <div class="col-md-6">
                             <div class="gift-box">
-                                <figure><img src="img/gift1.png" alt="" class="img-fluid"></figure>
+                                <figure><img src="img/gift1.webp" alt="" class="img-fluid"></figure>
                             </div>
                         </div>
                         <div class="col-md-6">
                             <div class="gift-box">
-                                <figure><img src="img/gift2.png" alt="" class="img-fluid"></figure>
+                                <figure><img src="img/gift2.webp" alt="" class="img-fluid"></figure>
                             </div>
                         </div>
                         <div class="col-md-6">
                             <div class="gift-box">
-                                <figure><img src="img/gift3.png" alt="" class="img-fluid"></figure>
+                                <figure><img src="img/gift3.webp" alt="" class="img-fluid"></figure>
                             </div>
                         </div>
                         <div class="col-md-6">
                             <div class="gift-box">
-                                <figure><img src="img/gift4.png" alt="" class="img-fluid"></figure>
+                                <figure><img src="img/gift4.webp" alt="" class="img-fluid"></figure>
                             </div>
                         </div>
                     </div>
