@@ -85,6 +85,7 @@
 	display: flex;
 	align-items: center;
 	justify-content: center;
+	cursor: pointer;
 }
 .gift-amount ul.all-amounts li label span.checkmark .price h5 {
 	margin: 0;

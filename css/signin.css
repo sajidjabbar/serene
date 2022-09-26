@@ -103,6 +103,11 @@
 	font-size: 20px;
 	padding: 13px 20px;
 	margin-bottom: 15px;
+	transition: 0.6s;
+	border: 2px solid #fff;
+}
+.login_sec .button-group .btn:hover {
+	box-shadow: 0px 0px 0px 2px #c91120;
 }
 .login_sec .bottom-bar {
 	text-align: center;

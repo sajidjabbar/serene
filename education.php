@@ -25,7 +25,7 @@
                     <div class="title">
                         <h4>Recent Posts</h4>
                     </div>
-                    <div class="post-dv">
+                    <div class="post-dv wow animate__animated animate__fadeInDown">
                         <div class="img-box">
                             <figure><img src="img/side-block.webp" alt="" class="img-fluid"></figure>
                         </div>
@@ -35,7 +35,7 @@
                             <p class="date">04 Feb 2022</p>
                         </div>
                     </div>
-                    <div class="post-dv">
+                    <div class="post-dv wow animate__animated animate__fadeInDown animate__delay-1s">
                         <div class="img-box">
                             <figure><img src="img/side-block.webp" alt="" class="img-fluid"></figure>
                         </div>
@@ -45,7 +45,7 @@
                             <p class="date">04 Feb 2022</p>
                         </div>
                     </div>
-                    <div class="post-dv">
+                    <div class="post-dv wow animate__animated animate__fadeInDown animate__delay-2s">
                         <div class="img-box">
                             <figure><img src="img/side-block.webp" alt="" class="img-fluid"></figure>
                         </div>
@@ -55,7 +55,7 @@
                             <p class="date">04 Feb 2022</p>
                         </div>
                     </div>
-                    <div class="post-dv">
+                    <div class="post-dv wow animate__animated animate__fadeInDown animate__delay-3s">
                         <div class="img-box">
                             <figure><img src="img/side-block.webp" alt="" class="img-fluid"></figure>
                         </div>
@@ -68,7 +68,7 @@
                 </div>
             </div>
             <div class="col-lg-10">
-                <div class="blog-posts">
+                <div class="blog-posts wow animate__animated animate__fadeIn">
                     <div class="row">
                         <div class="col-md-4">
                             <div class="img-box">
@@ -83,7 +83,9 @@
                                     <li><i class="fa fa-calendar" aria-hidden="true"></i> 04 Feb 2022</li>
                                 </ul>
                                 <p>
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco. Lorem Ipsum is simply dummy tex.
+                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                                    incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+                                    exercitation ullamco. Lorem Ipsum is simply dummy tex.
                                 </p>
                                 <div class="button-group">
                                     <a href="education-detail.php" class="sloth-btn">Read More</a>
@@ -92,7 +94,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="blog-posts">
+                <div class="blog-posts wow animate__animated animate__fadeIn animate__delay-1s">
                     <div class="row">
                         <div class="col-md-4">
                             <div class="img-box">
@@ -107,7 +109,9 @@
                                     <li><i class="fa fa-calendar" aria-hidden="true"></i> 04 Feb 2022</li>
                                 </ul>
                                 <p>
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco. Lorem Ipsum is simply dummy tex.
+                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                                    incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+                                    exercitation ullamco. Lorem Ipsum is simply dummy tex.
                                 </p>
                                 <div class="button-group">
                                     <a href="education-detail.php" class="sloth-btn">Read More</a>
@@ -116,7 +120,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="blog-posts">
+                <div class="blog-posts wow animate__animated animate__fadeIn animate__delay-2s">
                     <div class="row">
                         <div class="col-md-4">
                             <div class="img-box">
@@ -131,7 +135,9 @@
                                     <li><i class="fa fa-calendar" aria-hidden="true"></i> 04 Feb 2022</li>
                                 </ul>
                                 <p>
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco. Lorem Ipsum is simply dummy tex.
+                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                                    incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+                                    exercitation ullamco. Lorem Ipsum is simply dummy tex.
                                 </p>
                                 <div class="button-group">
                                     <a href="education-detail.php" class="sloth-btn">Read More</a>
@@ -140,7 +146,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="blog-posts">
+                <div class="blog-posts wow animate__animated animate__fadeIn animate__delay-3s">
                     <div class="row">
                         <div class="col-md-4">
                             <div class="img-box">
@@ -155,7 +161,9 @@
                                     <li><i class="fa fa-calendar" aria-hidden="true"></i> 04 Feb 2022</li>
                                 </ul>
                                 <p>
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco. Lorem Ipsum is simply dummy tex.
+                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                                    incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+                                    exercitation ullamco. Lorem Ipsum is simply dummy tex.
                                 </p>
                                 <div class="button-group">
                                     <a href="education-detail.php" class="sloth-btn">Read More</a>
@@ -164,7 +172,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="blog-posts">
+                <div class="blog-posts wow animate__animated animate__fadeIn animate__delay-4s">
                     <div class="row">
                         <div class="col-md-4">
                             <div class="img-box">
@@ -179,7 +187,9 @@
                                     <li><i class="fa fa-calendar" aria-hidden="true"></i> 04 Feb 2022</li>
                                 </ul>
                                 <p>
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco. Lorem Ipsum is simply dummy tex.
+                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                                    incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+                                    exercitation ullamco. Lorem Ipsum is simply dummy tex.
                                 </p>
                                 <div class="button-group">
                                     <a href="education-detail.php" class="sloth-btn">Read More</a>

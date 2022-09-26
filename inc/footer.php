@@ -8,13 +8,15 @@
                         <div class="col-lg-4 col-md-6">
                             <div class="info">
                                 <h4 class="sub-title">Contact For Information</h4>
-                                <p class="phone"><a href="#">(360)772-9988</a><span class="spe">|</span><a href="#">SereneSloth143@gmail.com</a></p>
+                                <p class="phone"><a href="tel:360772-9988">(360)772-9988</a><span class="spe">|</span><a
+                                        href="mailto:SereneSloth143@gmail.com">SereneSloth143@gmail.com</a></p>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6">
                             <div class="info">
                                 <h4 class="sub-title">Contact For Support</h4>
-                                <p class="phone"><a href="#">(360)772-9988</a><span class="spe">|</span><a href="#">SereneSloth143@gmail.com</a></p>
+                                <p class="phone"><a href="tel:360772-9988">(360)772-9988</a><span class="spe">|</span><a
+                                        href="mailto:SereneSloth143@gmail.com">SereneSloth143@gmail.com</a></p>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6">
@@ -52,7 +54,8 @@
                                     </a>
                                 </div>
                                 <p>
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
+                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                                    incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
                                 </p>
                             </div>
                         </div>

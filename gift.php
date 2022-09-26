@@ -126,7 +126,7 @@
                         </ul>
                     </div>
                     <div class="button-group">
-                        <button class="btn"><i class="fa fa-cart-arrow-down" aria-hidden="true"></i> Add to cart</button>
+                        <button class="btn" onclick="location.href='cart.php'"><i class="fa fa-cart-arrow-down" aria-hidden="true"></i> Add to cart</button>
                     </div>
                 </div>
             </div>

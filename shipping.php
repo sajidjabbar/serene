@@ -23,17 +23,33 @@
     </div>
     <div class="container-fluid">
         <div class="content-wrapper">
-            <div class="title">
+            <div class="title wow animate__animated animate__fadeInLeft">
                 <h3>Shipping and sales tax</h3>
             </div>
-            <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum tempus euismod viverra. Donec luctus dolor tellus,eget congue magna aliquet id.Etiam vulputate libero eget quam blandit fermentum.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum tempus euismod viverra. Donecluctus dolor tellus,eget congue magna aliquet id.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum tempus euismod viverra. Donec luctus dolor tellus,eget congue magna aliquet id.Etiam vulputate libero eget quam blandit fermentum.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum tempus euismod viverra. Donecluctus dolor tellus,eget congue magna aliquet id.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum tempus euismod viverra. Donec luctus dolor tellus,eget congue magna aliquet id.Etiam vulputate libero eget quam blandit fermentum.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum tempus euismod viverra. Donecluctus dolor tellus,eget congue magna aliquet id.<br /><br />
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum tempus euismod viverra. Donec luctus dolor tellus, eget congue magna aliquet id. Etiam vulputate libero eget quam blandit fermentum.
+            <p class="wow animate__animated animate__fadeInLeft animate__delay-1s">
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum tempus euismod viverra. Donec luctus
+                dolor tellus,eget congue magna aliquet id.Etiam vulputate libero eget quam blandit fermentum.Lorem ipsum
+                dolor sit amet, consectetur adipiscing elit. Vestibulum tempus euismod viverra. Donecluctus dolor
+                tellus,eget congue magna aliquet id.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum
+                tempus euismod viverra. Donec luctus dolor tellus,eget congue magna aliquet id.Etiam vulputate libero
+                eget quam blandit fermentum.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum tempus
+                euismod viverra. Donecluctus dolor tellus,eget congue magna aliquet id.Lorem ipsum dolor sit amet,
+                consectetur adipiscing elit. Vestibulum tempus euismod viverra. Donec luctus dolor tellus,eget congue
+                magna aliquet id.Etiam vulputate libero eget quam blandit fermentum.Lorem ipsum dolor sit amet,
+                consectetur adipiscing elit. Vestibulum tempus euismod viverra. Donecluctus dolor tellus,eget congue
+                magna aliquet id.<br /><br />
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum tempus euismod viverra. Donec luctus
+                dolor tellus, eget congue magna aliquet id. Etiam vulputate libero eget quam blandit fermentum.
             </p>
             <ul>
-                <li><img src="img/tick.webp" class="img-fluid" alt=""> Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
-                <li><img src="img/tick.webp" class="img-fluid" alt=""> Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem.</li>
-                <li><img src="img/tick.webp" class="img-fluid" alt=""> Lorem ipsum dolor sit amet, </li>
+                <li class="wow animate__animated animate__fadeInLeft animate__delay-1s"><img src="img/checkbox.webp"
+                        class="img-fluid" alt=""> Lorem ipsum dolor sit amet, consectetur
+                    adipiscing elit.</li>
+                <li class="wow animate__animated animate__fadeInLeft animate__delay-2s"><img src="img/checkbox.webp"
+                        class="img-fluid" alt=""> Lorem ipsum dolor sit amet, consectetur
+                    adipiscing elit.Lorem.</li>
+                <li class="wow animate__animated animate__fadeInLeft animate__delay-3s"><img src="img/checkbox.webp"
+                        class="img-fluid" alt=""> Lorem ipsum dolor sit amet, </li>
             </ul>
         </div>
     </div>
