@@ -1,4 +1,3 @@
-
 // /**** Profile Js Start Here *****\  \\
 $(".edit_profile").click(function () {
 	$(".complete_profile_section").addClass("hide");
@@ -20,7 +19,7 @@ $(".back_btn").click(function () {
 	$(".order_detail_page").addClass("hide");
 	$(".order_table_start").removeClass("hide");
 });
-// Pre Loader Js 
+// Pre Loader Js
 $(window).on("load", function () {
 	// console.log("test");
 	$("#preloader").fadeOut(1000);
@@ -36,6 +35,24 @@ $(".mobile_header .cancel").click(function () {
 	$(".mobile_header").removeClass("show");
 });
 // Mobile Header Js
+
+// Quantity Counter Start Here
+var value = 0;
+$("#quantityCounter").val(value);
+$("#Increment").on("click", function () {
+	value = parseInt(value + 1);
+	$("#quantityCounter").val(value);
+});
+$("#Decrement").on("click", function () {
+	if (value > 0) {
+		value = parseInt(value - 1);
+		$("#quantityCounter").val(value);
+	} else {
+		value = 0;
+		$("#quantityCounter").val(value);
+	}
+});
+// Quantity Counter End Here
 
 // Banner Video Js
 myVideo = document.getElementById("myvid");
@@ -68,4 +85,3 @@ video.addEventListener("pause", function () {
 	circlePlayButton.style.opacity = 1;
 });
 // Product Detail Video Js
-

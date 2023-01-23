@@ -80,13 +80,13 @@
                         <div class="quantity for-flex">
                             <span class="property">Quantity</span>
                             <div class="input-group">
-                                <button>
+                                <button id="Increment">
                                     <svg xmlns="http://www.w3.org/2000/svg" width="12.2" height="12.2" viewBox="0 0 12.2 12.2">
                                         <path id="Icon_metro-plus" data-name="Icon metro-plus" d="M14.39,6.5H10.2V2.309a.381.381,0,0,0-.381-.381H7.527a.381.381,0,0,0-.381.381V6.5H2.952a.381.381,0,0,0-.381.381V9.172a.381.381,0,0,0,.381.381H7.146v4.194a.381.381,0,0,0,.381.381H9.815a.381.381,0,0,0,.381-.381V9.553H14.39a.381.381,0,0,0,.381-.381V6.884A.381.381,0,0,0,14.39,6.5Z" transform="translate(-2.571 -1.928)" fill="#585858" />
                                     </svg>
                                 </button>
-                                <input type="number" class="form-control">
-                                <button>
+                                <input type="number" id="quantityCounter" class="form-control">
+                                <button id="Decrement">
                                     <svg xmlns="http://www.w3.org/2000/svg" width="14.001" height="3" viewBox="0 0 14.001 3">
                                         <path id="Icon_awesome-minus" data-name="Icon awesome-minus" d="M13,14.625H1a1,1,0,0,0-1,1v1a1,1,0,0,0,1,1H13a1,1,0,0,0,1-1v-1A1,1,0,0,0,13,14.625Z" transform="translate(0 -14.625)" fill="#585858" />
                                     </svg>

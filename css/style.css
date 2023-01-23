@@ -397,6 +397,8 @@ figure {
 }
 .product-box .pro-text {
 	padding-top: 10px;
+	padding-left: 15px;
+	padding-right: 15px;
 }
 .product-box .pro-text h4.price {
 	font-size: 24px;
