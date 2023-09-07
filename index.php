@@ -365,123 +365,51 @@
 
 <!-- Ring Sec Start Here -->
 <section class="ring_collection pad-10">
-    <div class="container-fluid p-0">
-        <div class="topbar">
-            <div class="title">
-                <h3>Top Ring Collection</h3>
-                <div class="line"></div>
-            </div>
-        </div>
-        <div class="ring-slider">
-            <div class="ring-box wow animate__animated animate__bounceIn">
-                <a href="#">
-                    <div class="ring-img">
-                        <figure><img src="img/ring1.webp" alt="" class="img-fluid"></figure>
+    <div class="container-fluid">
+        <h3 class="level-3">Latest Deals For This Week</h3>
+        <div class="deal__card-wrapp">
+            <div class="row">
+                <div class="col-lg-3">
+                    <div class="deal__card text-center bg-light">
+                        <div class="card__img">
+                            <img src="img/ring3.webp" alt="serene-slot" class="img-fluid">
+                        </div>
+                        <div class="card__content">
+                            <div class="deal__price  d-flex gap-1 justify-content-center">
+                                <p class="deal__price">$ 45.00</p>
+                                <p class="old__price">$ 57.00</p>
+                            </div>
+                            <p class="deal__desc text-center">
+                                Lorem ipsum dolor sit amet, consectetur ad
+                            </p>
+                        </div>
+                        <div class="line"></div>
+                        <div class="deal__timeline">
+                            <p class="text-center">Deals CountDown</p>
+                            <ul class="list d-flex justify-content-center p-0 list-style-none">
+                                <li class="text-center">
+                                    <h5>03</h5>
+                                    <p class="sm">DAYS</p>
+                                </li>
+                                <li class="text-center">
+                                    <h5>27</h5>
+                                    <p class="sm">HOURS</p>
+                                </li>
+                                <li class="text-center">
+                                    <h5>02</h5>
+                                    <p class="sm">MINS</p>
+                                </li>
+                                <li class="text-center">
+                                    <h5>33</h5>
+                                    <p class="sm">SEC</p>
+                                </li>
+                            </ul>
+                        </div>
                     </div>
-                    <div class="txt">
-                        <h4 class="price">£ 45.00 <strike>£ 57.00.</strike></h4>
-                        <p>Lorem Ipsum is simply dummy</p>
-                    </div>
-                </a>
-            </div>
-            <div class="ring-box wow animate__animated animate__bounceIn animate__delay-1s">
-                <a href="#">
-                    <div class="ring-img">
-                        <figure><img src="img/ring2.webp" alt="" class="img-fluid"></figure>
-                    </div>
-                    <div class="txt">
-                        <h4 class="price">£ 45.00 <strike>£ 57.00.</strike></h4>
-                        <p>Lorem Ipsum is simply dummy</p>
-                    </div>
-                </a>
-            </div>
-            <div class="ring-box wow animate__animated animate__bounceIn animate__delay-2s">
-                <a href="#">
-                    <div class="ring-img">
-                        <figure><img src="img/ring3.webp" alt="" class="img-fluid"></figure>
-                    </div>
-                    <div class="txt">
-                        <h4 class="price">£ 45.00 <strike>£ 57.00.</strike></h4>
-                        <p>Lorem Ipsum is simply dummy</p>
-                    </div>
-                </a>
-            </div>
-            <div class="ring-box wow animate__animated animate__bounceIn animate__delay-3s">
-                <a href="#">
-                    <div class="ring-img">
-                        <figure><img src="img/ring4.webp" alt="" class="img-fluid"></figure>
-                    </div>
-                    <div class="txt">
-                        <h4 class="price">£ 45.00 <strike>£ 57.00.</strike></h4>
-                        <p>Lorem Ipsum is simply dummy</p>
-                    </div>
-                </a>
-            </div>
-            <div class="ring-box wow animate__animated animate__bounceIn animate__delay-4s">
-                <a href="#">
-                    <div class="ring-img">
-                        <figure><img src="img/ring5.webp" alt="" class="img-fluid"></figure>
-                    </div>
-                    <div class="txt">
-                        <h4 class="price">£ 45.00 <strike>£ 57.00.</strike></h4>
-                        <p>Lorem Ipsum is simply dummy</p>
-                    </div>
-                </a>
-            </div>
-            <div class="ring-box wow animate__animated animate__bounceIn">
-                <a href="#">
-                    <div class="ring-img">
-                        <figure><img src="img/ring1.webp" alt="" class="img-fluid"></figure>
-                    </div>
-                    <div class="txt">
-                        <h4 class="price">£ 45.00 <strike>£ 57.00.</strike></h4>
-                        <p>Lorem Ipsum is simply dummy</p>
-                    </div>
-                </a>
-            </div>
-            <div class="ring-box wow animate__animated animate__bounceIn animate__delay-1s">
-                <a href="#">
-                    <div class="ring-img">
-                        <figure><img src="img/ring2.webp" alt="" class="img-fluid"></figure>
-                    </div>
-                    <div class="txt">
-                        <h4 class="price">£ 45.00 <strike>£ 57.00.</strike></h4>
-                        <p>Lorem Ipsum is simply dummy</p>
-                    </div>
-                </a>
-            </div>
-            <div class="ring-box wow animate__animated animate__bounceIn animate__delay-2s">
-                <a href="#">
-                    <div class="ring-img">
-                        <figure><img src="img/ring3.webp" alt="" class="img-fluid"></figure>
-                    </div>
-                    <div class="txt">
-                        <h4 class="price">£ 45.00 <strike>£ 57.00.</strike></h4>
-                        <p>Lorem Ipsum is simply dummy</p>
-                    </div>
-                </a>
-            </div>
-            <div class="ring-box wow animate__animated animate__bounceIn animate__delay-3s">
-                <a href="#">
-                    <div class="ring-img">
-                        <figure><img src="img/ring4.webp" alt="" class="img-fluid"></figure>
-                    </div>
-                    <div class="txt">
-                        <h4 class="price">£ 45.00 <strike>£ 57.00.</strike></h4>
-                        <p>Lorem Ipsum is simply dummy</p>
-                    </div>
-                </a>
-            </div>
-            <div class="ring-box wow animate__animated animate__bounceIn animate__delay-4s">
-                <a href="#">
-                    <div class="ring-img">
-                        <figure><img src="img/ring5.webp" alt="" class="img-fluid"></figure>
-                    </div>
-                    <div class="txt">
-                        <h4 class="price">£ 45.00 <strike>£ 57.00.</strike></h4>
-                        <p>Lorem Ipsum is simply dummy</p>
-                    </div>
-                </a>
+                </div>
+                <div class="col-lg-3"></div>
+                <div class="col-lg-3"></div>
+                <div class="col-lg-3"></div>
             </div>
         </div>
     </div>
