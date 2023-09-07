@@ -370,7 +370,7 @@
         <div class="deal__card-wrapp mt-3 mt-lg-5 mt-md-5">
             <div class="row">
                 <div class="col-lg-3">
-                    <div class="deal__card text-center bg-white px-1 px-md-3 px-lg-3 pt-3 my-2">
+                    <div class="deal__card text-center bg-white px-1 px-md-3 px-lg-3 pt-3 my-2 wow animate__animated animate__fadeInDown">
                         <a href="#">
                             <div class="card__img">
                                 <img src="img/ring3.webp" alt="serene-slot" class="img-fluid">
@@ -410,7 +410,7 @@
                     </div>
                 </div>
                 <div class="col-lg-3">
-                    <div class="deal__card text-center bg-white px-1 px-md-3 px-lg-3 pt-3 my-2">
+                    <div class="deal__card text-center bg-white px-1 px-md-3 px-lg-3 pt-3 my-2 wow animate__animated animate__fadeInDown">
                         <a href="#">
                             <div class="card__img">
                                 <img src="img/ring4.webp" alt="serene-slot" class="img-fluid">
@@ -450,7 +450,7 @@
                     </div>
                 </div>
                 <div class="col-lg-3">
-                    <div class="deal__card text-center bg-white px-1 px-md-3 px-lg-3 pt-3 my-2">
+                    <div class="deal__card text-center bg-white px-1 px-md-3 px-lg-3 pt-3 my-2 wow animate__animated animate__fadeInDown">
                         <a href="#">
                             <div class="card__img">
                                 <img src="img/ring2.webp" alt="serene-slot" class="img-fluid">
@@ -490,7 +490,7 @@
                     </div>
                 </div>
                 <div class="col-lg-3">
-                    <div class="deal__card text-center bg-white px-1 px-md-3 px-lg-3 pt-3 my-2">
+                    <div class="deal__card text-center bg-white px-1 px-md-3 px-lg-3 pt-3 my-2 wow animate__animated animate__fadeInDown">
                         <a href="#">
                             <div class="card__img">
                                 <img src="img/ring1.webp" alt="serene-slot" class="img-fluid">
@@ -621,7 +621,7 @@
     <div class="container-fluid p-0">
         <div class="topbar">
             <div class="title">
-                <h3>Top Collection</h3>
+                <h3>Top Selling Vendors</h3>
                 <div class="line"></div>
             </div>
         </div>
@@ -637,7 +637,7 @@
                     </div>
                 </a>
             </div>
-            <div class="ring-box wow animate__animated animate__fadeInDown animate__delay-1s">
+            <div class="vendor-box wow animate__animated animate__fadeInDown animate__delay-1s">
                 <a href="#">
                     <div class="ring-img">
                         <figure><img src="img/ring2.webp" alt="" class="img-fluid"></figure>

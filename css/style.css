@@ -1001,6 +1001,22 @@ footer .for-navlinks:before {
 }
 /* Deal Card  */
 
+/* Top Selling Vendors  */
+.ring_collection.top_collection {
+  background: transparent;
+}
+
+.ring_collection.top_collection .slick-arrow {
+  background: #d4d4d4;
+}
+.ring_collection.top_collection .line {
+    width: 62%;
+}
+.ring_collection.top_collection .slick-arrow {
+    top: -22%;
+}
+/* Top Selling Vendors  */
+
 @media (max-width: 1150px) {
   .deal__timeline h5 {
     font-size: 20px;
