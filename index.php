@@ -367,49 +367,168 @@
 <section class="ring_collection pad-10">
     <div class="container-fluid">
         <h3 class="level-3">Latest Deals For This Week</h3>
-        <div class="deal__card-wrapp">
+        <div class="deal__card-wrapp mt-3 mt-lg-5 mt-md-5">
             <div class="row">
                 <div class="col-lg-3">
-                    <div class="deal__card text-center bg-light">
-                        <div class="card__img">
-                            <img src="img/ring3.webp" alt="serene-slot" class="img-fluid">
-                        </div>
-                        <div class="card__content">
-                            <div class="deal__price  d-flex gap-1 justify-content-center">
-                                <p class="deal__price">$ 45.00</p>
-                                <p class="old__price">$ 57.00</p>
+                    <div class="deal__card text-center bg-white px-1 px-md-3 px-lg-3 pt-3 my-2">
+                        <a href="#">
+                            <div class="card__img">
+                                <img src="img/ring3.webp" alt="serene-slot" class="img-fluid">
                             </div>
-                            <p class="deal__desc text-center">
-                                Lorem ipsum dolor sit amet, consectetur ad
-                            </p>
-                        </div>
-                        <div class="line"></div>
-                        <div class="deal__timeline">
-                            <p class="text-center">Deals CountDown</p>
-                            <ul class="list d-flex justify-content-center p-0 list-style-none">
-                                <li class="text-center">
-                                    <h5>03</h5>
-                                    <p class="sm">DAYS</p>
-                                </li>
-                                <li class="text-center">
-                                    <h5>27</h5>
-                                    <p class="sm">HOURS</p>
-                                </li>
-                                <li class="text-center">
-                                    <h5>02</h5>
-                                    <p class="sm">MINS</p>
-                                </li>
-                                <li class="text-center">
-                                    <h5>33</h5>
-                                    <p class="sm">SEC</p>
-                                </li>
-                            </ul>
-                        </div>
+                            <div class="card__content mt-3">
+                                <div class="deal__price d-flex align-items-center gap-1 justify-content-center">
+                                    <p class="deal__price">$ 45.00</p>
+                                    <p class="old__price"><del>$ 57.00</del></p>
+                                </div>
+                                <p class="deal__desc text-center m-0">
+                                    Lorem ipsum dolor sit amet, consectetur ad
+                                </p>
+                            </div>
+                            <div class="line my-3"></div>
+                            <div class="deal__timeline">
+                                <p class="text-center">Deals CountDown</p>
+                                <ul class="list d-flex justify-content-center p-0 list-style-none mb-0 mt-3">
+                                    <li class="text-center px-2">
+                                        <h5 class="m-0">03</h5>
+                                        <p class="sm m-0">DAYS</p>
+                                    </li>
+                                    <li class="text-center px-2">
+                                        <h5 class="m-0">27</h5>
+                                        <p class="sm m-0">HOURS</p>
+                                    </li>
+                                    <li class="text-center px-2">
+                                        <h5 class="m-0">02</h5>
+                                        <p class="sm m-0">MINS</p>
+                                    </li>
+                                    <li class="text-center px-2">
+                                        <h5 class="m-0">33</h5>
+                                        <p class="sm m-0">SEC</p>
+                                    </li>
+                                </ul>
+                            </div>
+                        </a>
                     </div>
                 </div>
-                <div class="col-lg-3"></div>
-                <div class="col-lg-3"></div>
-                <div class="col-lg-3"></div>
+                <div class="col-lg-3">
+                    <div class="deal__card text-center bg-white px-1 px-md-3 px-lg-3 pt-3 my-2">
+                        <a href="#">
+                            <div class="card__img">
+                                <img src="img/ring4.webp" alt="serene-slot" class="img-fluid">
+                            </div>
+                            <div class="card__content mt-3">
+                                <div class="deal__price d-flex align-items-center gap-1 justify-content-center">
+                                    <p class="deal__price">$ 45.00</p>
+                                    <p class="old__price"><del>$ 57.00</del></p>
+                                </div>
+                                <p class="deal__desc text-center m-0">
+                                    Lorem ipsum dolor sit amet, consectetur ad
+                                </p>
+                            </div>
+                            <div class="line my-3"></div>
+                            <div class="deal__timeline">
+                                <p class="text-center">Deals CountDown</p>
+                                <ul class="list d-flex justify-content-center p-0 list-style-none mb-0 mt-3">
+                                    <li class="text-center px-2">
+                                        <h5 class="m-0">03</h5>
+                                        <p class="sm m-0">DAYS</p>
+                                    </li>
+                                    <li class="text-center px-2">
+                                        <h5 class="m-0">27</h5>
+                                        <p class="sm m-0">HOURS</p>
+                                    </li>
+                                    <li class="text-center px-2">
+                                        <h5 class="m-0">02</h5>
+                                        <p class="sm m-0">MINS</p>
+                                    </li>
+                                    <li class="text-center px-2">
+                                        <h5 class="m-0">33</h5>
+                                        <p class="sm m-0">SEC</p>
+                                    </li>
+                                </ul>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-lg-3">
+                    <div class="deal__card text-center bg-white px-1 px-md-3 px-lg-3 pt-3 my-2">
+                        <a href="#">
+                            <div class="card__img">
+                                <img src="img/ring2.webp" alt="serene-slot" class="img-fluid">
+                            </div>
+                            <div class="card__content mt-3">
+                                <div class="deal__price d-flex align-items-center gap-1 justify-content-center">
+                                    <p class="deal__price">$ 45.00</p>
+                                    <p class="old__price"><del>$ 57.00</del></p>
+                                </div>
+                                <p class="deal__desc text-center m-0">
+                                    Lorem ipsum dolor sit amet, consectetur ad
+                                </p>
+                            </div>
+                            <div class="line my-3"></div>
+                            <div class="deal__timeline">
+                                <p class="text-center">Deals CountDown</p>
+                                <ul class="list d-flex justify-content-center p-0 list-style-none mb-0 mt-3">
+                                    <li class="text-center px-2">
+                                        <h5 class="m-0">03</h5>
+                                        <p class="sm m-0">DAYS</p>
+                                    </li>
+                                    <li class="text-center px-2">
+                                        <h5 class="m-0">27</h5>
+                                        <p class="sm m-0">HOURS</p>
+                                    </li>
+                                    <li class="text-center px-2">
+                                        <h5 class="m-0">02</h5>
+                                        <p class="sm m-0">MINS</p>
+                                    </li>
+                                    <li class="text-center px-2">
+                                        <h5 class="m-0">33</h5>
+                                        <p class="sm m-0">SEC</p>
+                                    </li>
+                                </ul>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-lg-3">
+                    <div class="deal__card text-center bg-white px-1 px-md-3 px-lg-3 pt-3 my-2">
+                        <a href="#">
+                            <div class="card__img">
+                                <img src="img/ring1.webp" alt="serene-slot" class="img-fluid">
+                            </div>
+                            <div class="card__content mt-3">
+                                <div class="deal__price d-flex align-items-center gap-1 justify-content-center">
+                                    <p class="deal__price">$ 45.00</p>
+                                    <p class="old__price"><del>$ 57.00</del></p>
+                                </div>
+                                <p class="deal__desc text-center m-0">
+                                    Lorem ipsum dolor sit amet, consectetur ad
+                                </p>
+                            </div>
+                            <div class="line my-3"></div>
+                            <div class="deal__timeline">
+                                <p class="text-center">Deals CountDown</p>
+                                <ul class="list d-flex justify-content-center p-0 list-style-none mb-0 mt-3">
+                                    <li class="text-center px-2">
+                                        <h5 class="m-0">03</h5>
+                                        <p class="sm m-0">DAYS</p>
+                                    </li>
+                                    <li class="text-center px-2">
+                                        <h5 class="m-0">27</h5>
+                                        <p class="sm m-0">HOURS</p>
+                                    </li>
+                                    <li class="text-center px-2">
+                                        <h5 class="m-0">02</h5>
+                                        <p class="sm m-0">MINS</p>
+                                    </li>
+                                    <li class="text-center px-2">
+                                        <h5 class="m-0">33</h5>
+                                        <p class="sm m-0">SEC</p>
+                                    </li>
+                                </ul>
+                            </div>
+                        </a>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
