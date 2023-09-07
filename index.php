@@ -364,6 +364,7 @@
 <!-- Artist Sec End Here -->
 
 <!-- Ring Sec Start Here -->
+<!-- Newly Added  -->
 <section class="ring_collection pad-10">
     <div class="container-fluid">
         <h3 class="level-3">Latest Deals For This Week</h3>
@@ -533,6 +534,7 @@
         </div>
     </div>
 </section>
+<!-- Newly Added  -->   
 <!-- Ring Sec End Here -->
 
 <!-- Wide Range Sec Start Here -->
@@ -617,6 +619,7 @@
 <!-- Wide Range Sec End Here -->
 
 <!-- Ring Sec Start Here -->
+<!-- Newly Added  -->
 <section class="ring_collection pad-10 top_collection">
     <div class="container-fluid p-0">
         <div class="topbar">
@@ -625,120 +628,141 @@
                 <div class="line"></div>
             </div>
         </div>
-        <div class="ring-slider">
-            <div class="ring-box wow animate__animated animate__fadeInDown">
+        <div class="vendor-slider">
+            <div class="vendor-box wow animate__animated animate__fadeInDown animate__delay-1s">
                 <a href="#">
-                    <div class="ring-img">
-                        <figure><img src="img/ring1.webp" alt="" class="img-fluid"></figure>
-                    </div>
-                    <div class="txt">
-                        <h4 class="price">£ 45.00 <strike>£ 57.00.</strike></h4>
-                        <p>Lorem Ipsum is simply dummy</p>
+                    <div class="d-flex align-items-center gap-3">
+                        <div class="v__img">
+                            <img src="img/vendor1.png" alt="serene" class="img-fluid">
+                        </div>
+                        <div class="v__info">
+                            <p class="v__cat">Jewelry</p>
+                            <p class="v__desc">Lorem Ipsum is simply dummy text</p>
+                            <div class="d-flex gap-2">
+                                <div class="v__star-rating">
+                                    <i class="fa fa-star"></i>
+                                    <i class="fa fa-star"></i>
+                                    <i class="fa fa-star"></i>
+                                    <i class="fa fa-star"></i>
+                                    <i class="fa fa-star"></i>
+                                </div>
+                                <p class="review__count">( 119 reviews )</p>
+                            </div>
+                            <p class="v__listings">
+                                (15 Product Listed)
+                            </p>
+                        </div>
                     </div>
                 </a>
             </div>
             <div class="vendor-box wow animate__animated animate__fadeInDown animate__delay-1s">
                 <a href="#">
-                    <div class="ring-img">
-                        <figure><img src="img/ring2.webp" alt="" class="img-fluid"></figure>
-                    </div>
-                    <div class="txt">
-                        <h4 class="price">£ 45.00 <strike>£ 57.00.</strike></h4>
-                        <p>Lorem Ipsum is simply dummy</p>
-                    </div>
-                </a>
-            </div>
-            <div class="ring-box wow animate__animated animate__fadeInDown animate__delay-2s">
-                <a href="#">
-                    <div class="ring-img">
-                        <figure><img src="img/ring3.webp" alt="" class="img-fluid"></figure>
-                    </div>
-                    <div class="txt">
-                        <h4 class="price">£ 45.00 <strike>£ 57.00.</strike></h4>
-                        <p>Lorem Ipsum is simply dummy</p>
-                    </div>
-                </a>
-            </div>
-            <div class="ring-box wow animate__animated animate__fadeInDown animate__delay-3s">
-                <a href="#">
-                    <div class="ring-img">
-                        <figure><img src="img/ring4.webp" alt="" class="img-fluid"></figure>
-                    </div>
-                    <div class="txt">
-                        <h4 class="price">£ 45.00 <strike>£ 57.00.</strike></h4>
-                        <p>Lorem Ipsum is simply dummy</p>
+                    <div class="d-flex align-items-center gap-3">
+                        <div class="v__img">
+                            <img src="img/vendor2.png" alt="serene" class="img-fluid">
+                        </div>
+                        <div class="v__info">
+                            <p class="v__cat">Jewelry</p>
+                            <p class="v__desc">Lorem Ipsum is simply dummy text</p>
+                            <div class="d-flex gap-2">
+                                <div class="v__star-rating">
+                                    <i class="fa fa-star"></i>
+                                    <i class="fa fa-star"></i>
+                                    <i class="fa fa-star"></i>
+                                    <i class="fa fa-star"></i>
+                                    <i class="fa fa-star"></i>
+                                </div>
+                                <p class="review__count">( 119 reviews )</p>
+                            </div>
+                            <p class="v__listings">
+                                (15 Product Listed)
+                            </p>
+                        </div>
                     </div>
                 </a>
             </div>
-            <div class="ring-box wow animate__animated animate__fadeInDown animate__delay-4s">
+            <div class="vendor-box wow animate__animated animate__fadeInDown animate__delay-1s">
                 <a href="#">
-                    <div class="ring-img">
-                        <figure><img src="img/ring5.webp" alt="" class="img-fluid"></figure>
-                    </div>
-                    <div class="txt">
-                        <h4 class="price">£ 45.00 <strike>£ 57.00.</strike></h4>
-                        <p>Lorem Ipsum is simply dummy</p>
+                    <div class="d-flex align-items-center gap-3">
+                        <div class="v__img">
+                            <img src="img/vendor3.png" alt="serene" class="img-fluid">
+                        </div>
+                        <div class="v__info">
+                            <p class="v__cat">Jewelry</p>
+                            <p class="v__desc">Lorem Ipsum is simply dummy text</p>
+                            <div class="d-flex gap-2">
+                                <div class="v__star-rating">
+                                    <i class="fa fa-star"></i>
+                                    <i class="fa fa-star"></i>
+                                    <i class="fa fa-star"></i>
+                                    <i class="fa fa-star"></i>
+                                    <i class="fa fa-star"></i>
+                                </div>
+                                <p class="review__count">( 119 reviews )</p>
+                            </div>
+                            <p class="v__listings">
+                                (15 Product Listed)
+                            </p>
+                        </div>
                     </div>
                 </a>
             </div>
-            <div class="ring-box wow animate__animated animate__fadeInDown">
+            <div class="vendor-box wow animate__animated animate__fadeInDown animate__delay-1s">
                 <a href="#">
-                    <div class="ring-img">
-                        <figure><img src="img/ring1.webp" alt="" class="img-fluid"></figure>
-                    </div>
-                    <div class="txt">
-                        <h4 class="price">£ 45.00 <strike>£ 57.00.</strike></h4>
-                        <p>Lorem Ipsum is simply dummy</p>
+                    <div class="d-flex align-items-center gap-3">
+                        <div class="v__img">
+                            <img src="img/vendor4.png" alt="serene" class="img-fluid">
+                        </div>
+                        <div class="v__info">
+                            <p class="v__cat">Jewelry</p>
+                            <p class="v__desc">Lorem Ipsum is simply dummy text</p>
+                            <div class="d-flex gap-2">
+                                <div class="v__star-rating">
+                                    <i class="fa fa-star"></i>
+                                    <i class="fa fa-star"></i>
+                                    <i class="fa fa-star"></i>
+                                    <i class="fa fa-star"></i>
+                                    <i class="fa fa-star"></i>
+                                </div>
+                                <p class="review__count">( 119 reviews )</p>
+                            </div>
+                            <p class="v__listings">
+                                (15 Product Listed)
+                            </p>
+                        </div>
                     </div>
                 </a>
             </div>
-            <div class="ring-box wow animate__animated animate__fadeInDown animate__delay-1s">
+            <div class="vendor-box wow animate__animated animate__fadeInDown animate__delay-1s">
                 <a href="#">
-                    <div class="ring-img">
-                        <figure><img src="img/ring2.webp" alt="" class="img-fluid"></figure>
-                    </div>
-                    <div class="txt">
-                        <h4 class="price">£ 45.00 <strike>£ 57.00.</strike></h4>
-                        <p>Lorem Ipsum is simply dummy</p>
-                    </div>
-                </a>
-            </div>
-            <div class="ring-box wow animate__animated animate__fadeInDown animate__delay-2s">
-                <a href="#">
-                    <div class="ring-img">
-                        <figure><img src="img/ring3.webp" alt="" class="img-fluid"></figure>
-                    </div>
-                    <div class="txt">
-                        <h4 class="price">£ 45.00 <strike>£ 57.00.</strike></h4>
-                        <p>Lorem Ipsum is simply dummy</p>
-                    </div>
-                </a>
-            </div>
-            <div class="ring-box wow animate__animated animate__fadeInDown animate__delay-3s">
-                <a href="#">
-                    <div class="ring-img">
-                        <figure><img src="img/ring4.webp" alt="" class="img-fluid"></figure>
-                    </div>
-                    <div class="txt">
-                        <h4 class="price">£ 45.00 <strike>£ 57.00.</strike></h4>
-                        <p>Lorem Ipsum is simply dummy</p>
-                    </div>
-                </a>
-            </div>
-            <div class="ring-box wow animate__animated animate__fadeInDown animate__delay-4s">
-                <a href="#">
-                    <div class="ring-img">
-                        <figure><img src="img/ring5.webp" alt="" class="img-fluid"></figure>
-                    </div>
-                    <div class="txt">
-                        <h4 class="price">£ 45.00 <strike>£ 57.00.</strike></h4>
-                        <p>Lorem Ipsum is simply dummy</p>
+                    <div class="d-flex align-items-center gap-3">
+                        <div class="v__img">
+                            <img src="img/vendor1.png" alt="serene" class="img-fluid">
+                        </div>
+                        <div class="v__info">
+                            <p class="v__cat">Jewelry</p>
+                            <p class="v__desc">Lorem Ipsum is simply dummy text</p>
+                            <div class="d-flex gap-2">
+                                <div class="v__star-rating">
+                                    <i class="fa fa-star"></i>
+                                    <i class="fa fa-star"></i>
+                                    <i class="fa fa-star"></i>
+                                    <i class="fa fa-star"></i>
+                                    <i class="fa fa-star"></i>
+                                </div>
+                                <p class="review__count">( 119 reviews )</p>
+                            </div>
+                            <p class="v__listings">
+                                (15 Product Listed)
+                            </p>
+                        </div>
                     </div>
                 </a>
             </div>
         </div>
     </div>
 </section>
+<!-- Newly Added  -->
 <!-- Ring Sec End Here -->
 
 <!-- About Sec Start Here -->

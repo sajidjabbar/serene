@@ -79,6 +79,44 @@ $('.ring-slider').slick({
 });
 // Rings Slider Js
 
+// Rings Slider Js
+$('.vendor-slider').slick({
+    dots: false,
+    infinite: false,
+    speed: 300,
+    slidesToShow: 4,
+    slidesToScroll: 4,
+    dots : false,
+    loop : true,
+    responsive: [{
+            breakpoint: 1150,
+            settings: {
+                slidesToShow: 3,
+                slidesToScroll: 3,
+                infinite: true,
+                dots: false
+            }
+        },
+        {
+            breakpoint: 991,
+            settings: {
+                slidesToShow: 2,
+                slidesToScroll: 2,
+                dots: true
+            }
+        },
+        {
+            breakpoint: 767,
+            settings: {
+                slidesToShow: 1,
+                slidesToScroll: 1,
+                dots: true
+            }
+        }
+    ]
+});
+// Rings Slider Js
+
 // Product Detail Slider Js
 $('.single-image').slick({
     slidesToShow: 1,
